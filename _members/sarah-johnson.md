@@ -1,11 +1,13 @@
 ---
-name: Sarah Johnson
+name: Elisavet Anglou
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: PhD Student
+role: PhD Student
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: eanglou@gatech.edu
+  twitter: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+B.S. in Chemical Engineering, National Technical University of Athens
+
+MSc in Advanced Chemical Engineering with Process System Engineering, Imperial College London
