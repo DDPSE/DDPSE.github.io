@@ -2,6 +2,7 @@
 name: Zachary Kilwein
 image: images/photo.jpg
 role: PhD student
+description: PhD student
 links:
   github: 
 ---
