@@ -2,6 +2,7 @@
 name: Jinhyeun Kim
 image: images/photo.jpg
 role: PhD Student
+description: PhD Student
 aliases:
   - J. Kim
   - J Kim
