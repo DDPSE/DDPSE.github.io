@@ -1,18 +1,16 @@
 # site properties and page defaults
-title: DDPSE
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Data Driven PSE @ GT
+subtitle: Webpage of our research lab
+description: We are the Data-Driven Process Systems Engineering Lab at Georgia Tech School of Chemical & Biomolecular Engineering. 
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@DDPSE.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: DDPSE
-  twitter: DDPSE
-  youtube: DDPSE
+  email: fani.boukouvala@chbe.gatech.edu
+  orcid: 0000-0002-0584-1517
+  github: DDPSE.github.io
+
 
 ### jekyll settings
 
