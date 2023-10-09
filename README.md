@@ -1,5 +1,5 @@
 
-# DDPSE's Website
+# GT ChBE DDPSE's Website
 
 Visit **[ddpse.github.io](https://ddpse.github.io)** 🚀
 
