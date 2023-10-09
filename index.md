@@ -1,7 +1,7 @@
 ---
 ---
 
-# Data-Driven Process Systems Engineering Lab Website
+# Data-Driven Process Systems Engineering Lab
 
 Our computational lab in the School of Chemical & Biomolecular Engineering at Georgia Tech integrates data-science with chemical engineering principles to develop modeling and optimization methods for complex systems.
 
