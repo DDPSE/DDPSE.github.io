@@ -1,6 +1,7 @@
 # site properties and page defaults
-title: Data Driven PSE @ GT
-subtitle: Research Lab Website
+title: Data Driven PSE @ GT ChBE
+subtitle: Boukouvala Research Lab Website
+logo-text: false
 description: We are the Data-Driven Process Systems Engineering Lab at Georgia Tech School of Chemical & Biomolecular Engineering. 
 header: images/blurry_network.jpg
 footer: images/blurry_network.jpg
@@ -9,7 +10,7 @@ footer: images/blurry_network.jpg
 links:
   email: fani.boukouvala@chbe.gatech.edu
   orcid: 0000-0002-0584-1517
-  github: DDPSE.github.io
+  github: https://github.com/DDPSE
 
 
 ### jekyll settings
