@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Data Driven PSE @ GT ChBE
 subtitle: Boukouvala Research Lab Website
-logo-text: false
+logo-text: true
 description: We are the Data-Driven Process Systems Engineering Lab at Georgia Tech School of Chemical & Biomolecular Engineering. 
 header: images/blurry_network.jpg
 footer: images/blurry_network.jpg
