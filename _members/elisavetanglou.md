@@ -5,7 +5,6 @@ description: PhD Student
 role: PhD Student
 links:
   email: eanglou@gatech.edu
-  twitter: 
 ---
 
 B.S. in Chemical Engineering, National Technical University of Athens
