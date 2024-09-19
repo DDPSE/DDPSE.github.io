@@ -1,174 +1,859 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.engappai.2023.107611
+  title: Enabling global interpolation, derivative estimation and model identification
+    from sparse multi-experiment time series data via neural ODEs
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - William Bradley
+  - Ron Volkovinsky
+  - Fani Boukouvala
+  publisher: Engineering Applications of Artificial Intelligence
+  date: '2024-04-01'
+  link: https://doi.org/gt48tb
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.compchemeng.2023.108523
+  title: 'Machine learning in process systems engineering: Challenges and opportunities'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Prodromos Daoutidis
+  - Jay H. Lee
+  - Srinivas Rangarajan
+  - Leo Chiang
+  - Bhushan Gopaluni
+  - Artur M. Schweidtmann
+  - Iiro Harjunkoski
+  - "Mehmet Mercang\xF6z"
+  - Ali Mesbah
+  - Fani Boukouvala
+  - Fernando V. Lima
+  - Antonio del Rio Chanona
+  - Christos Georgakis
+  publisher: Computers &amp; Chemical Engineering
+  date: '2024-02-01'
+  link: https://doi.org/gtb5kf
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.cej.2023.148278
+  title: Process development and techno-economic analysis for mechanochemical recycling
+    of poly(ethylene terephthalate)
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Elisavet Anglou
+  - Arvind Ganesan
+  - Yuchen Chang
+  - "Kinga M. Go\u0142\u0105bek"
+  - Qiang Fu
+  - William Bradley
+  - Christopher W. Jones
+  - Carsten Sievers
+  - Sankar Nair
+  - Fani Boukouvala
+  publisher: Chemical Engineering Journal
+  date: '2024-02-01'
+  link: https://doi.org/gt48tc
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3390/en16165913
+  title: 'Optimization with Neural Network Feasibility Surrogates: Formulations and
+    Application to Security-Constrained Optimal Power Flow'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Zachary Kilwein
+  - Jordan Jalving
+  - Michael Eydenberg
+  - Logan Blakely
+  - Kyle Skolfield
+  - Carl Laird
+  - Fani Boukouvala
+  publisher: Energies
+  date: '2023-08-10'
+  link: https://doi.org/gt48td
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.cherd.2022.10.002
+  title: Data-driven simultaneous process optimization and adsorbent selection for
+    vacuum pressure swing adsorption
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Sun Hye Kim
+  - "H\xE9ctor Octavio Rubiera Landa"
+  - Suryateja Ravutla
+  - Matthew J. Realff
+  - Fani Boukouvala
+  publisher: Chemical Engineering Research and Design
+  date: '2022-12-01'
+  link: https://doi.org/gtdksj
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1007/s10898-021-01045-8
+  title: Data-driven spatial branch-and-bound algorithms for box-constrained simulation-based
+    optimization
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: Journal of Global Optimization
+  date: '2021-12-02'
+  link: https://doi.org/gt48tf
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.18260/2-1-370.660-130434
+  title: Online Graduate Certificate in Data Science for the Chemical Industry
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Andrew Medford
+  publisher: Chemical Engineering Education
+  date: '2022-01-01'
+  link: https://doi.org/gt48tg
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2022.107898
+  title: Perspectives on the integration between first-principles and data-driven
+    modeling
+  authors:
+  - William Bradley
+  - Jinhyeun Kim
+  - Zachary Kilwein
+  - Logan Blakely
+  - Michael Eydenberg
+  - Jordan Jalvin
+  - Carl Laird
+  - Fani Boukouvala
+  publisher: Computers &amp; Chemical Engineering
+  date: '2022-10-01'
+  link: https://doi.org/gqzvdn
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85141387688
+  title: 'Physics-Informed Machine Learning with Optimization-Based Guarantees: Applications
+    to Ac Power Flow'
+  publisher: SSRN
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85141387688&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssuschemeng.2c03376
+  title: Stages and Kinetics of Mechanochemical Depolymerization of Poly(ethylene
+    terephthalate) with Sodium Hydroxide
+  authors:
+  - Andrew W. Tricker
+  - Anuoluwatobi A. Osibo
+  - Yuchen Chang
+  - Jason X. Kang
+  - Arvind Ganesan
+  - Elisavet Anglou
+  - Fani Boukouvala
+  - Sankar Nair
+  - Christopher W. Jones
+  - Carsten Sievers
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2022-08-17'
+  link: https://doi.org/gt48th
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11081-022-09740-5
+  title: Surrogate-based branch-and-bound algorithms for simulation-based black-box
+    optimization
+  authors:
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: Optimization and Engineering
+  date: '2022-09-02'
+  link: https://doi.org/gt48tj
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-323-85159-6.50290-6
+  title: Training Stiff Dynamic Process Models via Neural Differential Equations
+  authors:
+  - William Bradley
+  - "Gabriel S. Gusm\xE3o"
+  - Andrew J. Medford
+  - Fani Boukouvala
+  publisher: Computer Aided Chemical Engineering
+  date: '2022-01-01'
+  link: https://doi.org/gt48tk
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-323-95879-0.50098-9
+  title: Verification of Neural Network Surrogates
+  authors:
+  - Joshua Haddad
+  - Michael Bynum
+  - Michael Eydenberg
+  - Logan Blakely
+  - Zachary Kilwein
+  - Fani Boukouvala
+  - Carl D. Laird
+  - Jordan Jalving
+  publisher: Computer Aided Chemical Engineering
+  date: '2022-01-01'
+  link: https://doi.org/gt48tm
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-323-88506-5.50142-X
+  title: AC-Optimal Power Flow Solutions with Security Constraints from Deep Neural
+    Network Models
+  authors:
+  - Zachary Kilwein
+  - Fani Boukouvala
+  - Carl Laird
+  - Anya Castillo
+  - Logan Blakely
+  - Michael Eydenberg
+  - Jordan Jalving
+  - Lisa Batsch-Smith
+  publisher: Computer Aided Chemical Engineering
+  date: '2021-01-01'
+  link: https://doi.org/gt48tn
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11590-019-01508-8
+  title: 'Correction to: A preface to the special issue in memory of Professor Christodoulos
+    A. Floudas'
+  authors:
+  - Fani Boukouvala
+  - Chrysanthos E. Gounaris
+  publisher: Optimization Letters
+  date: '2019-11-26'
+  link: https://doi.org/gt48tp
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-323-88506-5.50164-9
+  title: Data-driven Branch-and-bound Algorithms for Constrained Simulation-based
+    Optimization
+  authors:
+  - Jianyuan Zhai
+  - Sachin Shirpurkar
+  - Fani Boukouvala
+  publisher: Computer Aided Chemical Engineering
+  date: '2021-01-01'
+  link: https://doi.org/gt48tq
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.iecr.1c00552
+  title: Two-Stage Approach to Parameter Estimation of Differential Equations Using
+    Neural ODEs
+  authors:
+  - William Bradley
+  - Fani Boukouvala
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2021-11-08'
+  link: https://doi.org/gnzhkm
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11590-019-01499-6
+  title: A preface to the special issue in memory of Professor Christodoulos A. Floudas
+  authors:
+  - Fani Boukouvala
+  - Chrysanthos E. Gounaris
+  publisher: Optimization Letters
+  date: '2019-11-08'
+  link: https://doi.org/gt48tr
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2020.107007
+  title: An integrated data-driven modeling &amp; global optimization approach for
+    multi-period nonlinear production planning problems
+  authors:
+  - C. Doga Demirhan
+  - Fani Boukouvala
+  - Kyungwon Kim
+  - Hyeju Song
+  - William W. Tso
+  - Christodoulos A. Floudas
+  - Efstratios N. Pistikopoulos
+  publisher: Computers &amp; Chemical Engineering
+  date: '2020-10-01'
+  link: https://doi.org/gkc8v6
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11590-019-01428-7
+  title: 'Machine learning-based surrogate modeling for data-driven optimization:
+    a comparison of subset selection for regression techniques'
+  authors:
+  - Sun Hye Kim
+  - Fani Boukouvala
+  publisher: Optimization Letters
+  date: '2019-05-09'
+  link: https://doi.org/gf7ph4
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2019.106519
+  title: Managing uncertainty in data-driven simulation-based optimization
+  authors:
+  - "Gordon H\xFCllen"
+  - Jianyuan Zhai
+  - Sun Hye Kim
+  - Anshuman Sinha
+  - Matthew J. Realff
+  - Fani Boukouvala
+  publisher: Computers &amp; Chemical Engineering
+  date: '2020-05-01'
+  link: https://doi.org/gn9wtf
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2020.106847
+  title: Surrogate-based optimization for mixed-integer nonlinear problems
+  authors:
+  - Sun Hye Kim
+  - Fani Boukouvala
+  publisher: Computers &amp; Chemical Engineering
+  date: '2020-09-01'
+  link: https://doi.org/gt48ts
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-818597-1.50012-6
+  title: Data-Driven Spatial Branch-And-Bound Algorithms For Black-Box Optimization
+  authors:
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: Computer Aided Chemical Engineering
+  date: '2019-01-01'
+  link: https://doi.org/gt48tt
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aic.16601
+  title: Nonlinear variable selection algorithms for surrogate modeling
+  authors:
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: AIChE Journal
+  date: '2019-05-07'
+  link: https://doi.org/gf4pwv
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.iecr.9b01358
+  title: Preface for Special Issue on Frameworks for Process Intensification and Modularization
+  authors:
+  - Michael Baldea
+  - M. M. Faruque Hasan
+  - Fani Boukouvala
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2019-04-17'
+  link: https://doi.org/gt48tv
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2018.01.005
+  title: Global optimization of grey-box computational systems using surrogate functions
+    and application to highly constrained oil-field operations
+  authors:
+  - Burcu Beykal
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  - Nadav Sorek
+  - Hardikkumar Zalavadia
+  - Eduardo Gildin
+  publisher: Computers &amp; Chemical Engineering
+  date: '2018-06-01'
+  link: https://doi.org/gf4kg3
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2018.02.017
+  title: Optimal design of energy systems using constrained grey-box multi-objective
+    optimization
+  authors:
+  - Burcu Beykal
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  - Efstratios N. Pistikopoulos
+  publisher: Computers &amp; Chemical Engineering
+  date: '2018-08-01'
+  link: https://doi.org/gfmqgr
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10898-018-0643-0
+  title: Optimization of black-box problems using Smolyak grids and polynomial approximations
+  authors:
+  - Chris A. Kieslich
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  publisher: Journal of Global Optimization
+  date: '2018-05-03'
+  link: https://doi.org/gdxnkz
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-444-64241-7.50272-X
+  title: Teaching data-analytics through process design
+  authors:
+  - Fani Boukouvala
+  - Jianyuan Zhai
+  - Sun Hye Kim
+  - Farida Jariwala
+  publisher: Computer Aided Chemical Engineering
+  date: '2018-01-01'
+  link: https://doi.org/gt48tw
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11590-016-1028-2
+  title: 'ARGONAUT: AlgoRithms for Global Optimization of coNstrAined grey-box compUTational
+    problems'
+  authors:
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  publisher: Optimization Letters
+  date: '2016-04-12'
+  link: https://doi.org/f975mq
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10596-016-9610-3
+  title: Dimensionality reduction for production optimization using polynomial approximations
+  authors:
+  - Nadav Sorek
+  - Eduardo Gildin
+  - Fani Boukouvala
+  - Burcu Beykal
+  - Christodoulos A. Floudas
+  publisher: Computational Geosciences
+  date: '2017-01-27'
+  link: https://doi.org/f9487f
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10898-015-0376-2
+  title: 'Global optimization of general constrained grey-box models: new method and
+    its application to constrained PDEs for pressure swing adsorption'
+  authors:
+  - Fani Boukouvala
+  - M. M. Faruque Hasan
+  - Christodoulos A. Floudas
+  publisher: Journal of Global Optimization
+  date: '2015-11-05'
+  link: https://doi.org/f9m3n7
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aic.15220
+  title: "Data\u2010driven mathematical modeling and global optimization framework\
+    \ for entire petrochemical planning operations"
+  authors:
+  - Jie Li
+  - Xin Xiao
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  - Baoguo Zhao
+  - Guangming Du
+  - Xin Su
+  - Hongwei Liu
+  publisher: AIChE Journal
+  date: '2016-03-27'
+  link: https://doi.org/f87dgw
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACC.2016.7525433
+  title: Data-driven modeling and global optimization of industrial-scale petrochemical
+    planning operations
+  authors:
+  - Fani Boukouvala
+  - Jie Li
+  - ' Xin Xiao'
+  - Christodoulos A. Floudas
+  publisher: 2016 American Control Conference (ACC)
+  date: '2016-07-01'
+  link: https://doi.org/gt48tx
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ejor.2015.12.018
+  title: Global optimization advances in Mixed-Integer Nonlinear Programming, MINLP,
+    and Constrained Derivative-Free Optimization, CDFO
+  authors:
+  - Fani Boukouvala
+  - Ruth Misener
+  - Christodoulos A. Floudas
+  publisher: European Journal of Operational Research
+  date: '2016-08-01'
+  link: https://doi.org/ghqbkk
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2015.04.034
+  title: 'A multi-scale framework for CO2 capture, utilization, and sequestration:
+    CCUS and CCU'
+  authors:
+  - M.M. Faruque Hasan
+  - Eric L. First
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  publisher: Computers &amp; Chemical Engineering
+  date: '2015-10-01'
+  link: https://doi.org/f7p2f8
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-444-63433-7.50011-0
+  title: A Novel Framework for Carbon Capture, Utilization, and Sequestration, CCUS
+  authors:
+  - M.M. Faruque Hasan
+  - Eric L. First
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  publisher: Computer Aided Chemical Engineering
+  date: '2014-01-01'
+  link: https://doi.org/gt48tz
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aic.14442
+  title: "Derivative\u2010free optimization for expensive constrained problems using\
+    \ a novel expected improvement objective function"
+  authors:
+  - Fani Boukouvala
+  - Marianthi G. Ierapetritou
+  publisher: AIChE Journal
+  date: '2014-04-01'
+  link: https://doi.org/f57fzc
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ie402931c
+  title: Nationwide, Regional, and Statewide CO<sub>2</sub> Capture, Utilization,
+    and Sequestration Supply Chain Network Optimization
+  authors:
+  - M. M. Faruque Hasan
+  - Fani Boukouvala
+  - Eric L. First
+  - Christodoulos A. Floudas
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2014-03-03'
+  link: https://doi.org/f53q54
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12247-012-9143-9
+  title: Computer-Aided Flowsheet Simulation of a Pharmaceutical Tablet Manufacturing
+    Process Incorporating Wet Granulation
+  authors:
+  - Fani Boukouvala
+  - Anwesha Chaudhury
+  - Maitraye Sen
+  - Ruijie Zhou
+  - Lukasz Mioduszewski
+  - Marianthi G. Ierapetritou
+  - Rohit Ramachandran
+  publisher: Journal of Pharmaceutical Innovation
+  date: '2013-01-18'
+  link: https://doi.org/gt48t2
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12247-013-9152-3
+  title: Improving Continuous Powder Blending Performance Using Projection to Latent
+    Structures Regression
+  authors:
+  - Yijie Gao
+  - Fani Boukouvala
+  - William Engisch
+  - Wei Meng
+  - Fernando J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Journal of Pharmaceutical Innovation
+  date: '2013-04-16'
+  link: https://doi.org/gt48t3
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84911476717
+  title: Optimization of CO2 Capture, Utilization and Sequestration (CCUS) supply
+    chain networks
+  publisher: 'Environmental Division 2013 - Core Programming Area at the 2013 AIChE
+    Annual Meeting: Global Challenges for Engineering a Sustainable Future'
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911476717&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84911982142
+  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
+    chain networks
+  publisher: 'Separations Division 2013 - Core Programming Area at the 2013 AIChE
+    Annual Meeting: Global Challenges for Engineering a Sustainable Future'
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911982142&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84911902059
+  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
+    chain networks
+  publisher: 'Sustainable Engineering Forum 2013 - Core Programming Area at the 2013
+    AIChE Annual Meeting: Global Challenges for Engineering a Sustainable Future'
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911902059&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84911890733
+  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
+    chain networks
+  publisher: 'Engineering Sciences and Fundamentals 2013 - Core Programming Area at
+    the 2013 AIChE Annual Meeting: Global Challenges for Engineering a Sustainable
+    Future'
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911890733&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84910006128
+  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
+    chain networks
+  publisher: 'CO2 Capture 2013 - Topical Conference at the 2013 AIChE Annual Meeting:
+    Global Challenges for Engineering a Sustainable Future'
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84910006128&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ces.2013.01.053
+  title: Reduced-order discrete element method modeling
+  authors:
+  - Fani Boukouvala
+  - Yijie Gao
+  - Fernando Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Chemical Engineering Science
+  date: '2013-05-01'
+  link: https://doi.org/f4w7rp
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12247-013-9154-1
+  title: Surrogate-Based Optimization of Expensive Flowsheet Modeling for Continuous
+    Pharmaceutical Manufacturing
+  authors:
+  - Fani Boukouvala
+  - Marianthi G. Ierapetritou
+  publisher: Journal of Pharmaceutical Innovation
+  date: '2013-05-11'
+  link: https://doi.org/gj455n
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2012.02.015
+  title: An integrated approach for dynamic flowsheet modeling and sensitivity analysis
+    of a continuous tablet manufacturing process
+  authors:
+  - Fani Boukouvala
+  - Vasilios Niotis
+  - Rohit Ramachandran
+  - Fernando J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Computers &amp; Chemical Engineering
+  date: '2012-07-01'
+  link: https://doi.org/ggd5mt
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mame.201100054
+  title: "Computational Approaches for Studying the Granular Dynamics of Continuous\
+    \ Blending Processes, 2 \u2013 Population Balance and Data\u2010Based Methods"
+  authors:
+  - Fani Boukouvala
+  - Atul Dubey
+  - Aditya Vanarase
+  - Rohit Ramachandran
+  - Fernando J. Muzzio
+  - Marianthi Ierapetritou
+  publisher: Macromolecular Materials and Engineering
+  date: '2011-08-25'
+  link: https://doi.org/c5t5tx
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84968919497
+  title: Effect of lubricant mixing time and concentration, compaction speed and compression
+    force on the dissolution profile of a control release formulation
+  publisher: Sustainable Packaging Symposium 2012
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84968919497&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2011.06.005
+  title: Feasibility analysis of black-box processes using an adaptive sampling Kriging-based
+    method
+  authors:
+  - Fani Boukouvala
+  - Marianthi G. Ierapetritou
+  publisher: Computers &amp; Chemical Engineering
+  date: '2012-01-01'
+  link: https://doi.org/fdc33s
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84864183677
+  title: 'Flexible multipurpose Continuous processing: Integration of process flow
+    modeling for continuous processing of pharmaceutical solid dosage forms'
+  publisher: Pharmaceutical Processing
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864183677&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1208/s12249-011-9723-x
+  title: Improvement of Tablet Coating Uniformity Using a Quality by Design Approach
+  authors:
+  - Atul Dubey
+  - Fani Boukouvala
+  - Golshid Keyvan
+  - Richard Hsia
+  - Kostas Saranteas
+  - Dean Brone
+  - Tushar Misra
+  - Marianthi G. Ierapetritou
+  - Fernando J. Muzzio
+  publisher: AAPS PharmSciTech
+  date: '2012-01-10'
+  link: https://doi.org/fx3hdz
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-444-53711-9.50044-4
+  title: Computer Aided Design and Analysis of Continuous Pharmaceutical Manufacturing
+    Processes
+  authors:
+  - Fani Boukouvala
+  - Rohit Ramachandran
+  - Aditya Vanarase
+  - Fernando J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Computer Aided Chemical Engineering
+  date: '2011-01-01'
+  link: https://doi.org/cztdrj
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ie102305a
+  title: Dynamic Data-Driven Modeling of Pharmaceutical Processes
+  authors:
+  - F. Boukouvala
+  - F. J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2011-04-27'
+  link: https://doi.org/dbw8zx
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85054521995
+  title: Dynamic simulation of the dissolution of pharmaceutical tablet Integrated
+    with continuous manufacturing process
+  publisher: Comprehensive Quality by Design in Pharmaceutical Development and Manufacture
+    - Topical Conference at the 2011 AIChE Annual Meeting
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054521995&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84856747083
+  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
+    with continuous manufacturing process
+  publisher: AIChE Annual Meeting, Conference Proceedings
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856747083&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85054797529
+  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
+    with continuous manufacturing process
+  publisher: Food, Pharmaceutical and Bioengineering Division - Core Programming Topic
+    at the 2011 AIChE Annual Meeting
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054797529&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85054764130
+  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
+    with continuous manufacturing process
+  publisher: Process Development Division - Core Programming Topic at the 2011 AIChE
+    Annual Meeting
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054764130&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-444-53711-9.50087-0
+  title: Feasibility analysis of black-box processes using an adaptive sampling kriging
+    based method
+  authors:
+  - Fani Boukouvala
+  - Fernando J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Computer Aided Chemical Engineering
+  date: '2011-01-01'
+  link: https://doi.org/br5xwh
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85054536476
+  title: Multivariate analysis and reduced order modeling based on Discrete Element
+    Method (DEM) simulations for a powder blender
+  publisher: Computing and Systems Technology Division - Core Programming Topic at
+    the 2011 AIChE Annual Meeting
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054536476&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85054472963
+  title: Simulation based optimization of expensive flowsheet models for continuous
+    pharmaceutical manufacturing
+  publisher: Computing and Systems Technology Division - Core Programming Topic at
+    the 2011 AIChE Annual Meeting
+  date: '2023-04-04'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054472963&partnerID=MN8TOARS
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12247-010-9086-y
+  title: Design Space of Pharmaceutical Processes Using Data-Driven-Based Methods
+  authors:
+  - Fani Boukouvala
+  - Fernando J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: Journal of Pharmaceutical Innovation
+  date: '2010-09-14'
+  link: https://doi.org/dxpv66
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aic.12203
+  title: Predictive modeling of pharmaceutical processes with missing and noisy data
+  authors:
+  - Fani Boukouvala
+  - Fernando J. Muzzio
+  - Marianthi G. Ierapetritou
+  publisher: AIChE Journal
+  date: '2010-02-11'
+  link: https://doi.org/fm3v3x
+  orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +869,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +885,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
