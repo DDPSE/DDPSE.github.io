@@ -12,7 +12,7 @@ We are a team of researchers passionate about leveraging chemical engineering pr
 Meet our talented team members who make it all happen!
 
 <div class ="page-image">
-<img src="/images/team/labaiche24.jpg" alt="DDPSE AIChE 2024 Photo">
+<img src="/images/team/ddpseaiche24.jpeg" alt="DDPSE AIChE 2024 Photo">
 </div>
 
 {% include section.html %}
@@ -26,9 +26,9 @@ Meet our talented team members who make it all happen!
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/team/ddpse22.jpg" %}
+{% include figure.html image="images/team/ddpsevolunteering23.jpg" %}
+{% include figure.html image="images/team/funnyaiche24.jpg" %}
 
 {% endcapture %}
 
