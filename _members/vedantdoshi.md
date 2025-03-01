@@ -1,6 +1,6 @@
 ---
 name: Vedant Doshi
-image: images/team/vedant.jpg
+image: images/team/doshi.jpg
 description: Undergraduate Student
 role: UG Student
 links:
