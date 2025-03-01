@@ -2,7 +2,7 @@
 name: Elisavet Anglou
 image: images/team/liza.jpg
 description: PhD Student
-role: PhD Student
+role: phd
 links:
   email: eanglou@gatech.edu
 ---
