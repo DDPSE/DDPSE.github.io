@@ -1,6 +1,6 @@
 ---
 name: Elisavet Anglou
-image: images/liza.jpg
+image: images/team/liza.jpg
 description: PhD Student
 role: PhD Student
 links:
