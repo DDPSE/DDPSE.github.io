@@ -29,9 +29,9 @@ Meet our talented team members who make it all happen!
 
 {% capture content %}
 
+{% include figure.html image="images/team/first_photo_lab.png" %}
 {% include figure.html image="images/team/ddpse22.jpg" %}
-{% include figure.html image="images/team/ddpsevolunteering23.jpg" %}
-{% include figure.html image="images/team/funnyaiche24.jpg" %}
+{% include figure.html image="images/team/funnyaiche24.jpeg" %}
 
 {% endcapture %}
 
