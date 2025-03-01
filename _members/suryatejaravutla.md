@@ -1,6 +1,6 @@
 ---
 name: Suryateja Ravutla
-image: images/surya.jpg
+image: images/team/surya.jpg
 role: PhD student
 description: PhD student
 links:
