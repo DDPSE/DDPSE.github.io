@@ -23,6 +23,13 @@ Meet our talented team members who make it all happen!
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
+# Alumni
+- Dr. Sophie Kim, PhD, Currently at Dow Chemical
+- Dr. Jianyuan Zhai, PhD, Currently at Cargill
+- Dr. William Bradley, PhD, Currently at Bristol Myers Squibb
+- Dr. Jinhyeun Kim, PhD
+- Dr. Zachary Kilwein, Currently at PhD Sandia National Labs
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
