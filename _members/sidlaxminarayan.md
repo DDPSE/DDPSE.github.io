@@ -1,6 +1,6 @@
 ---
 name: Sidharth (Sid) Laxminarayan
-image: images/sid.jpg
+image: images/team/sid.jpg
 description: PhD Student
 role: PhD Student
 links:
