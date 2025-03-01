@@ -1,6 +1,6 @@
 ---
 name: Fani Boukouvala
-image: images/team/fani.jpg
+image: images/team/fani.jpeg
 description: PI
 role: pi
 links:
