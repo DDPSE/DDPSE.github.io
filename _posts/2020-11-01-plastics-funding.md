@@ -6,6 +6,12 @@ tags:
   - plastics
 ---
 
+{%
+  include feature.html
+  image="images/plastics.jpg"
+  title="Plastics Everywhere"
+  text=text
+%}
 
 Fani Boukouvala is a co-PI on a grant awarded by NSF for reducing plastic waste. The role of the Data-Driven PSE lab on this proposal will be to model and optimize the integrated process that transforms plastic waste of various compositions to valuable chemicals. The PI of this award is Dr. Carsten Sievers, and other co-PIs include Drs. Sankar Nair, Chris Jones and Omar Asensio.  
 <br>
