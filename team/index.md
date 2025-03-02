@@ -24,18 +24,19 @@ Meet our talented team members who make it all happen!
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 # Alumni
+### PhD Students:
 - Dr. Sophie Kim, PhD, Currently at Dow Chemical
 - Dr. Jianyuan Zhai, PhD, Currently at Cargill
 - Dr. William Bradley, PhD, Currently at Bristol Myers Squibb
 - Dr. Jinhyeun Kim, PhD
 - Dr. Zachary Kilwein, Currently at PhD Sandia National Labs
-<br>
+### Masters Students:
 - Viggo Stromberg, Visiting MS student
 - Sachin Shirpurkar, MS Student
 - Niteesha Devulapally, MS Student
 - Zhe Liu, MS Student
 - Yuli Wu, MS Student
-<br>
+### Undergraduate Students:
 - Demetrios Pappas, Undergraduate Student
 - Riddhi Bhattacharya, Undergraduate Student
 - Dormecia Allen, Undergraduate Student
