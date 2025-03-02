@@ -1,47 +1,56 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Data-Driven Optimization
+  subtitle: New methods and tools for global optimization with data
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/ddopt.png
+  link: https://github.com/DDPSE
+  description: We work on development of new methods and tools for global optimization with data. Data may come from expensive simulations or experiments. Our work combines machine learning and global optimization techniques such as branching and bounding to develop reliable, efficient and globally convergent methods.
+  repo: https://github.com/DDPSE
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
+    - optimization
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Hybrid Process-Informed Machine Learning
+  subtitle: New methods for development of hybrid models
+  group: featured
+  image: images/hm.png
+  link: https://ddpse.github.io/research/
+  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. 
   tags:
-    - software
+    - hybrid_modeling
+
+- title: Plastics Recycling
+  subtitle: We develop models to study new plastics recycling technologies.
+  image: images/photo.jpg
+  link: https://ddpse.github.io/research/
+  description: In this collaborative project, we build models to understand how a new solids-based processing technology can be used to chemically depolymerize plastics. We start with modeling particle movement within ball mill processes, to developing an integrated flowsheet model of the plastics recycling process, to performing technoeconomic and life-cycle analysis, to finally studying supply chain effects of new recycling technologies.
+  tags:
+    - recycling
+    - sustainability
+
+- title: Power Grid Operations
+  subtitle: Using hybrid process-informed machine learning to optimize power grid operations under contingencies. 
+  image: images/photo.jpg
+  link: https://ddpse.github.io/research/
+  description: Power grids must operate optimally and reliably even when contingencies occur (e.g., power-outs, weather events). Power grids are large highly interconnected systems, similar to large chemical process flowsheets. Previously, we employed our hybrid and process-informed machine learning expertise to expedite solutions of optimization problems related to power grid operations.
+  repo: https://ddpse.github.io/research/
+  tags:
+    - power_grids
+    - resilience
+
+- title: Carbon capture
+  subtitle: Surrogate modeling and data-driven optimization of carbon capture processes.
+  image: images/photo.jpg
+  link: https://ddpse.github.io/research/
+  description: To design future carbon capture systems, detailed models must be used to optimize their design and operation, subject to economic and energy constraints. 
+  tags:
+    - carbon_capture
+    - sustainability
+
+  - title: Bioprocess Optimization
+  subtitle: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
+  image: images/photo.jpg
+  link: https://ddpse.github.io/research/
+  description: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
+  tags:
+    - bioprocess
+    - sustainability
