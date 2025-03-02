@@ -7,15 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Interested in collaborating, learning more about our research, or joining our team? Feel free to reach out! We welcome inquiries from students, researchers, and industry partners who share our passion for data-driven process systems engineering. Contact us to explore potential opportunities and collaborations.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Fani Boukouvala email"
+  link="fboukouvala6@gatech.edu"
 %}
 {%
   include button.html
@@ -27,7 +25,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://maps.app.goo.gl/yUKyUU1rd3teybqbA)"
 %}
 
 {% include section.html %}
