@@ -1,6 +1,6 @@
 ---
 name: Fani Boukouvala
-image: images/team/fani.jpeg
+image: images/team/fani.boukouvala.jpeg
 description: Associate Professor, PI
 role: pi
 links:
