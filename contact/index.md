@@ -20,14 +20,14 @@ Contact us to explore potential opportunities and collaborations via email. If y
 {%
   include button.html
   type="link"
-  text="Book a meeting with Dr. B"
-  link="https://outlook.office.com/bookings/homepage?src=bookings-slots-tips"
+  text="Book a meeting with Dr B"
+  link=""
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/yUKyUU1rd3teybqbA"
+  link=""
 %}
 
 {% include section.html %}
