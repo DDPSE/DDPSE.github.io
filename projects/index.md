@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At the *Data-Driven Process Systems Engineering Lab*, we work at the intersection of methods development and real-world applications. Our research spans two key areas:
+1. **Methods-Driven Research:** We develop novel approaches in data-driven optimization and hybrid modeling, integrating machine learning with fundamental process knowledge.
+2. **Application-Driven Research:** We apply our methods to tackle pressing challenges in energy systems and sustainable manufacturing.
+Our projects blend theoretical advancements with impactful applications to create sustainable and efficient engineering solutions.
 
 {% include tags.html tags="publication, resource, website" %}
 
