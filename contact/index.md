@@ -36,7 +36,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/fordest.webp"
   caption="Lorem ipsum"
 %}
 
@@ -46,7 +46,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/main-campus.jpg"
   caption="Lorem ipsum"
 %}
 
