@@ -29,7 +29,7 @@ By integrating statistics, machine learning, and operations research with chemic
 
 {%
   include feature.html
-  image="images/ai-ddpseimage.jpg"
+  image="images/ai-ddpse-picture.webp"
   link="research"
   title="Our Research"
   text=text
