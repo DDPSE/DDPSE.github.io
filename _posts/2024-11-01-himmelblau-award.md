@@ -7,4 +7,6 @@ tags:
   - big data
 ---
 
-Fani Boukouvala, Andrew Medford, Martha Grover, Carson Meredith and David Sholl were awarded the AIChE Computing and Systems Technology Himmelblau Award for innovations in Computer-Aided Education, for the creation of the Data-Science Certificate for the Chemical Industries. You can watch the online webinar describing the program here: https://www.youtube.com/watch?v=nYB7SH-La8M&list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP and find more information about the Data-Science Graduate Certificate for the Chemical Industries here: https://www.chbe.gatech.edu/online-graduate-certificate-data-science-chemical-industry
+Fani Boukouvala, Andrew Medford, Martha Grover, Carson Meredith and David Sholl were awarded the AIChE Computing and Systems Technology Himmelblau Award for innovations in Computer-Aided Education, for the creation of the Data-Science Certificate for the Chemical Industries. <br> <br>
+You can watch the online webinar describing the program here: [DSCI Webinar](https://www.youtube.com/watch?v=nYB7SH-La8M&list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP/) <br> 
+and find more information about the Data-Science Graduate Certificate for the Chemical Industries here: [DSCI Webpage](https://www.chbe.gatech.edu/online-graduate-certificate-data-science-chemical-industry/)
