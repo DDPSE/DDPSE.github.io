@@ -1,10 +1,10 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Dr. Boukouvala and team of ChBE Professors awarded Himmelblau Award for Computer-Aided Chemical Engineering Education
+author: fani
 tags:
-  - biology
-  - medicine
+  - award
+  - education
   - big data
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Fani Boukouvala, Andrew Medford, Martha Grover, Carson Meredith and David Sholl were awarded the AIChE Computing and Systems Technology Himmelblau Award for innovations in Computer-Aided Education, for the creation of the Data-Science Certificate for the Chemical Industries. You can watch the online webinar describing the program here: https://www.youtube.com/watch?v=nYB7SH-La8M&list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP and find more information about the Data-Science Graduate Certificate for the Chemical Industries here: https://www.chbe.gatech.edu/online-graduate-certificate-data-science-chemical-industry
