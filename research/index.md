@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here, you'll find our latest contributions to journals, conferences and book chapters, showcasing our advancements in the areas of data-driven optimization, hybrid modeling, process-informed machine learning,  plastics recycling, carbon capture, resilient grid operations and more. Notice that we are committed to collaboration and the dissemination of impactful research. Feel free to explore our work and reach out for discussions or potential collaborations!
 
 {% include section.html %}
 
