@@ -3,17 +3,13 @@
 
 # Data-Driven Process Systems Engineering Lab
 
-Our computational lab in the School of Chemical & Biomolecular Engineering at Georgia Tech integrates data-science with chemical engineering principles to develop modeling and optimization methods for complex systems.
-
+At the Data-Driven Process Systems Engineering Lab, we develop hybrid mathematical models and optimization tools to understand, analyze, and enhance complex process systems operating under constraints and competing objectives. Our research spans multiple scales—from molecular and particle-level interactions to single process, to integrated systems, to enterprise-wide operations. 
 
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
-
-At the Data-Driven Process Systems Engineering Lab, we develop hybrid mathematical models and optimization tools to understand, analyze, and enhance complex process systems operating under constraints and competing objectives. Our research spans multiple scales—from molecular and particle-level interactions to single process, to integrated systems, to enterprise-wide operations. 
-
 By integrating statistics, machine learning, and operations research with chemical engineering principles, we create next-generation decision-making frameworks that enable the discovery of nontrivial, high-impact solutions —solutions that were previously unattainable. By leveraging diverse data sources, we can now learn from complex patterns while incorporating constraints from first-principles, sustainability and economic considerations. Our hybrid process-informed machine learning (HyPR-ML) approaches have contributed to advancements in carbon capture system design, resilient power grid operations, plastics recycling technologies, and bioprocess optimization. Beyond our lab, our tools have been used by others to tackle pressing engineering challenges, reinforcing our commitment to creating scalable, impactful, and sustainable solutions for the future.
 
 {%
