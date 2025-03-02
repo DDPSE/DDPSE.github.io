@@ -27,6 +27,8 @@
     - recycling
     - sustainability
 
+
+{% comment %}
 - title: Power Grid Operations
   subtitle: Using hybrid process-informed machine learning to optimize power grid operations under contingencies. 
   image: images/photo.jpg
@@ -54,3 +56,4 @@
   tags:
     - bioprocess
     - sustainability
+{% endcomment %}
