@@ -21,7 +21,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
   include button.html
   type="link"
   text="Book a meeting with Dr B"
-  link=""
+  link="https://outlook.office.com/bookings/homepage?src=bookings-slots-tips"
 %}
 {%
   include button.html

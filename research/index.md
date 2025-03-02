@@ -7,14 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here, you'll find our latest contributions to journals, conferences and book chapters, showcasing our advancements in the areas of data-driven optimization, hybrid modeling, process-informed machine learning,  plastics recycling, carbon capture, resilient grid operations and more. Notice that we are committed to collaboration and the dissemination of impactful research. Feel free to explore our work and reach out for discussions or potential collaborations!
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Perspectives on the integration between first-principles and data-driven modeling" style="rich" %}
+{% include citation.html lookup="Enabling global interpolation, derivative estimation and model identification from sparse multi-experiment time series data via neural ODEs" %}
+{% include citation.html lookup="Process development and techno-economic analysis for mechanochemical recycling of poly(ethylene terephthalate)" style="rich" %}
+{% include citation.html lookup="Optimization with Neural Network Feasibility Surrogates: Formulations and Application to Security-Constrained Optimal Power Flow" style="rich" %}
+{% include citation.html lookup="Data-driven spatial branch-and-bound algorithms for box-constrained simulation-based optimization" style="rich" %}
 
 {% include section.html %}
 

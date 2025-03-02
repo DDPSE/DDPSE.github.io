@@ -30,12 +30,16 @@ Meet our talented team members who make it all happen!
 - Dr. William Bradley, PhD, Currently at Bristol Myers Squibb
 - Dr. Jinhyeun Kim, PhD
 - Dr. Zachary Kilwein, Currently at PhD Sandia National Labs
+
+
 ### Masters Students:
 - Viggo Stromberg, Visiting MS student
 - Sachin Shirpurkar, MS Student
 - Niteesha Devulapally, MS Student
 - Zhe Liu, MS Student
 - Yuli Wu, MS Student
+
+
 ### Undergraduate Students:
 - Demetrios Pappas, Undergraduate Student
 - Riddhi Bhattacharya, Undergraduate Student
