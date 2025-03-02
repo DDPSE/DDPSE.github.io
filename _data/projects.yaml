@@ -16,7 +16,7 @@
   link: https://ddpse.github.io/research/
   description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. 
   tags:
-    - hybrid_modeling
+    - hybridmodeling
 
 - title: Plastics Recycling
   subtitle: We develop models to study new plastics recycling technologies.
@@ -27,8 +27,6 @@
     - recycling
     - sustainability
 
-
-{% comment %}
 - title: Power Grid Operations
   subtitle: Using hybrid process-informed machine learning to optimize power grid operations under contingencies. 
   image: images/photo.jpg
@@ -36,7 +34,7 @@
   description: Power grids must operate optimally and reliably even when contingencies occur (e.g., power-outs, weather events). Power grids are large highly interconnected systems, similar to large chemical process flowsheets. Previously, we employed our hybrid and process-informed machine learning expertise to expedite solutions of optimization problems related to power grid operations.
   repo: https://ddpse.github.io/research/
   tags:
-    - power_grids
+    - powergrids
     - resilience
 
 - title: Carbon capture
@@ -45,10 +43,10 @@
   link: https://ddpse.github.io/research/
   description: To design future carbon capture systems, detailed models must be used to optimize their design and operation, subject to economic and energy constraints. 
   tags:
-    - carbon_capture
+    - carboncapture
     - sustainability
 
-  - title: Bioprocess Optimization
+- title: Bioprocess Optimization
   subtitle: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
@@ -56,4 +54,4 @@
   tags:
     - bioprocess
     - sustainability
-{% endcomment %}
+
