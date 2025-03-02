@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the talented current researchers and alumni who drive innovation in the Data-Driven Process Systems Engineering Lab. We are a collegial and collaborative group, supporting each other as we tackle complex challenges. We foster a dynamic and inclusive environment where teamwork, mentorship, outreach and a shared passion for computational research go hand in hand—with plenty of fun along the way!
 
 {%
   include button.html
