@@ -36,7 +36,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
 
 {%
   include figure.html
-  image="images/fordest.webp"
+  image="images/visitusimage1.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -57,21 +57,15 @@ Contact us to explore potential opportunities and collaborations via email. If y
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+GT ChBE's mission: Creating a better 
+future by transforming people, 
+ideas, processes and products
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
