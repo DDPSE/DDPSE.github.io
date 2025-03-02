@@ -789,15 +789,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84856747083
-  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
-    with continuous manufacturing process
-  publisher: AIChE Annual Meeting, Conference Proceedings
-  date: '2025-03-02'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856747083&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/B978-0-444-53711-9.50087-0
   title: Feasibility analysis of black-box processes using an adaptive sampling kriging
     based method
