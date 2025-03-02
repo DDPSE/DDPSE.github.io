@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Interested in collaborating, learning more about our research, or joining our team? Feel free to reach out! We welcome inquiries from students, researchers, and industry partners who share our passion for data-driven process systems engineering. Contact us to explore potential opportunities and collaborations.
+Interested in collaborating, learning more about our research, or joining our team? Feel free to reach out! We welcome inquiries from students, researchers, and industry partners who share our passion for data-driven process systems engineering. 
+<br> 
+Contact us to explore potential opportunities and collaborations via email. If you are interested in joining our lab, you can use the Bookings link below to schedule a meeting with Dr. Boukouvala.
 
 {%
   include button.html
@@ -17,9 +19,9 @@ Interested in collaborating, learning more about our research, or joining our te
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="link"
+  text="Book a meeting with Dr. B"
+  link="https://outlook.office.com/bookings/homepage?src=bookings-slots-tips"
 %}
 {%
   include button.html
