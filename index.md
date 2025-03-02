@@ -38,7 +38,7 @@ Beyond our lab, our tools have been used by others to tackle pressing engineerin
 {%
   include button.html
   link="projects"
-  text="Browse our tools"
+  text="Browse our projects and tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
