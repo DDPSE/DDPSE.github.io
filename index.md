@@ -10,7 +10,7 @@ At the Data-Driven Process Systems Engineering Lab, we develop hybrid mathematic
 ## Highlights
 
 {% capture text %}
-By integrating statistics, machine learning, and operations research with chemical engineering principles, we create next-generation decision-making frameworks that enable the discovery of nontrivial, high-impact solutions —solutions that were previously unattainable. By leveraging diverse data sources, we can now learn from complex patterns while incorporating constraints from first-principles, sustainability and economic considerations. Our hybrid process-informed machine learning approaches have contributed to advancements in carbon capture system design, resilient power grid operations, plastics recycling technologies, and bioprocess optimization. 
+By integrating data-analytics, machine learning, and operations research with chemical engineering principles, we create next-generation decision-making frameworks that enable the discovery of nontrivial, high-impact solutions —solutions that were previously unattainable. By leveraging diverse data sources and multifidelity simulations, we can now learn correlations and patterns that become objectives and constraints for the optimization of economical and sustainable process systems.  
 
 {%
   include button.html
@@ -33,7 +33,7 @@ By integrating statistics, machine learning, and operations research with chemic
 
 {% capture text %}
 
-Beyond our lab, our tools have been used by others to tackle pressing engineering challenges, reinforcing our commitment to creating scalable, impactful, and sustainable solutions for the future.
+Our hybrid process-informed machine learning approaches have contributed to advancements in carbon capture system design, resilient power grid operations, plastics recycling technologies, and bioprocess optimization. We also have a strong interest in developing tools that can be used by us and others to tackle pressing engineering challenges, reinforcing our commitment to creating scalable, impactful, and sustainable solutions for the future.
 
 {%
   include button.html
