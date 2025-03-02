@@ -27,7 +27,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link=""
+  link="https://maps.app.goo.gl/kndr2NobrosUWM7B8"
 %}
 
 {% include section.html %}

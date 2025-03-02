@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.69997/sct.151585
+  title: Integrating Hybrid Modeling and Multifidelity Approaches for Data-Driven
+    Process Model Discovery
+  authors:
+  - Suryateja Ravutla
+  - Fani Boukouvala
+  publisher: Systems and Control Transactions
+  date: '2024-07-09'
+  link: https://doi.org/g86sgv
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.69997/sct.180587
+  title: 'Towards Sustainable Supply Chains for Waste Plastics through Closed-Loop
+    Recycling: A case-study for Georgia'
+  authors:
+  - Elisavet Anglou
+  - Riddhi Bhattacharya
+  - Patricia Stathatou
+  - Fani Boukouvala
+  publisher: Systems and Control Transactions
+  date: '2024-07-09'
+  link: https://doi.org/g86sgz
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.engappai.2023.107611
   title: Enabling global interpolation, derivative estimation and model identification
     from sparse multi-experiment time series data via neural ODEs
@@ -55,6 +81,74 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1039/d4dd00163j
+  title: Micro-kinetic modeling of temporal analysis of products data using kinetics-informed
+    neural networks
+  authors:
+  - Dingqi Nai
+  - "Gabriel S. Gusm\xE3o"
+  - Zachary A. Kilwein
+  - Fani Boukouvala
+  - Andrew J. Medford
+  publisher: Digital Discovery
+  date: '2024-01-01'
+  link: https://doi.org/g8p3k9
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssuschemeng.3c06081
+  title: Modeling Mechanochemical Depolymerization of PET in Ball-Mill Reactors Using
+    DEM Simulations
+  authors:
+  - Elisavet Anglou
+  - Yuchen Chang
+  - William Bradley
+  - Carsten Sievers
+  - Fani Boukouvala
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2024-06-04'
+  link: https://doi.org/g86sg2
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijepes.2023.109741
+  title: 'Physics-informed machine learning with optimization-based guarantees: Applications
+    to AC power flow'
+  authors:
+  - Jordan Jalving
+  - Michael Eydenberg
+  - Logan Blakely
+  - Anya Castillo
+  - Zachary Kilwein
+  - J. Kyle Skolfield
+  - Fani Boukouvala
+  - Carl Laird
+  publisher: International Journal of Electrical Power &amp; Energy Systems
+  date: '2024-06-01'
+  link: https://doi.org/g86sg3
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijggc.2024.104260
+  title: Surrogate model optimization of vacuum pressure swing adsorption using a
+    flexible metal organic framework with hysteretic sigmoidal isotherms
+  authors:
+  - Yuya Takakura
+  - Suryateja Ravutla
+  - Jinsu Kim
+  - Keisuke Ikeda
+  - Hiroshi Kajiro
+  - Tomoyuki Yajima
+  - Junpei Fujiki
+  - Fani Boukouvala
+  - Matthew Realff
+  - Yoshiaki Kawajiri
+  publisher: International Journal of Greenhouse Gas Control
+  date: '2024-10-01'
+  link: https://doi.org/g86sg4
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/en16165913
   title: 'Optimization with Neural Network Feasibility Surrogates: Formulations and
     Application to Security-Constrained Optimal Power Flow'
@@ -72,18 +166,58 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.cherd.2022.10.002
-  title: Data-driven simultaneous process optimization and adsorbent selection for
-    vacuum pressure swing adsorption
+- id: doi:10.1016/B978-0-443-15274-0.50382-6
+  title: Discrete Element Simulation and Economics of Mechanochemical Grinding of
+    Plastic Waste at an Industrial Scale
   authors:
-  - Sun Hye Kim
-  - "H\xE9ctor Octavio Rubiera Landa"
-  - Suryateja Ravutla
-  - Matthew J. Realff
+  - Elisavet Anglou
+  - Yuchen Chang
+  - Arvind Ganesan
+  - Sankar Nair
+  - Carsten Sievers
   - Fani Boukouvala
-  publisher: Chemical Engineering Research and Design
-  date: '2022-12-01'
-  link: https://doi.org/gtdksj
+  publisher: Computer Aided Chemical Engineering
+  date: '2023-01-01'
+  link: https://doi.org/g86sg5
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-443-15274-0.50209-2
+  title: Hybrid Modeling and Multi-Fidelity Approaches for Data-Driven Branch-and-Bound
+    Optimization
+  authors:
+  - Suryateja Ravutla
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: Computer Aided Chemical Engineering
+  date: '2023-01-01'
+  link: https://doi.org/g86sg6
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compchemeng.2023.108320
+  title: Physics-based Penalization for Hyperparameter Estimation in Gaussian Process
+    Regression
+  authors:
+  - Jinhyeun Kim
+  - Christopher Luettgen
+  - Kamran Paynabar
+  - Fani Boukouvala
+  publisher: Computers &amp; Chemical Engineering
+  date: '2023-10-01'
+  link: https://doi.org/g86sg7
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11081-022-09740-5
+  title: Surrogate-based branch-and-bound algorithms for simulation-based black-box
+    optimization
+  authors:
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: Optimization and Engineering
+  date: '2022-09-02'
+  link: https://doi.org/gt48tj
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -96,6 +230,21 @@
   publisher: Journal of Global Optimization
   date: '2021-12-02'
   link: https://doi.org/gt48tf
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cherd.2022.10.002
+  title: Data-driven simultaneous process optimization and adsorbent selection for
+    vacuum pressure swing adsorption
+  authors:
+  - Sun Hye Kim
+  - "H\xE9ctor Octavio Rubiera Landa"
+  - Suryateja Ravutla
+  - Matthew J. Realff
+  - Fani Boukouvala
+  publisher: Chemical Engineering Research and Design
+  date: '2022-12-01'
+  link: https://doi.org/gtdksj
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -127,15 +276,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85141387688
-  title: 'Physics-Informed Machine Learning with Optimization-Based Guarantees: Applications
-    to Ac Power Flow'
-  publisher: SSRN
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85141387688&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1021/acssuschemeng.2c03376
   title: Stages and Kinetics of Mechanochemical Depolymerization of Poly(ethylene
     terephthalate) with Sodium Hydroxide
@@ -153,18 +293,6 @@
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2022-08-17'
   link: https://doi.org/gt48th
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11081-022-09740-5
-  title: Surrogate-based branch-and-bound algorithms for simulation-based black-box
-    optimization
-  authors:
-  - Jianyuan Zhai
-  - Fani Boukouvala
-  publisher: Optimization and Engineering
-  date: '2022-09-02'
-  link: https://doi.org/gt48tj
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -253,6 +381,18 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s11590-019-01428-7
+  title: 'Machine learning-based surrogate modeling for data-driven optimization:
+    a comparison of subset selection for regression techniques'
+  authors:
+  - Sun Hye Kim
+  - Fani Boukouvala
+  publisher: Optimization Letters
+  date: '2019-05-09'
+  link: https://doi.org/gf7ph4
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11590-019-01499-6
   title: A preface to the special issue in memory of Professor Christodoulos A. Floudas
   authors:
@@ -278,18 +418,6 @@
   publisher: Computers &amp; Chemical Engineering
   date: '2020-10-01'
   link: https://doi.org/gkc8v6
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11590-019-01428-7
-  title: 'Machine learning-based surrogate modeling for data-driven optimization:
-    a comparison of subset selection for regression techniques'
-  authors:
-  - Sun Hye Kim
-  - Fani Boukouvala
-  publisher: Optimization Letters
-  date: '2019-05-09'
-  link: https://doi.org/gf7ph4
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -319,17 +447,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/B978-0-12-818597-1.50012-6
-  title: Data-Driven Spatial Branch-And-Bound Algorithms For Black-Box Optimization
-  authors:
-  - Jianyuan Zhai
-  - Fani Boukouvala
-  publisher: Computer Aided Chemical Engineering
-  date: '2019-01-01'
-  link: https://doi.org/gt48tt
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/aic.16601
   title: Nonlinear variable selection algorithms for surrogate modeling
   authors:
@@ -338,6 +455,17 @@
   publisher: AIChE Journal
   date: '2019-05-07'
   link: https://doi.org/gf4pwv
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-818597-1.50012-6
+  title: Data-Driven Spatial Branch-And-Bound Algorithms For Black-Box Optimization
+  authors:
+  - Jianyuan Zhai
+  - Fani Boukouvala
+  publisher: Computer Aided Chemical Engineering
+  date: '2019-01-01'
+  link: https://doi.org/gt48tt
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -350,6 +478,18 @@
   publisher: Industrial &amp; Engineering Chemistry Research
   date: '2019-04-17'
   link: https://doi.org/gt48tv
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10898-018-0643-0
+  title: Optimization of black-box problems using Smolyak grids and polynomial approximations
+  authors:
+  - Chris A. Kieslich
+  - Fani Boukouvala
+  - Christodoulos A. Floudas
+  publisher: Journal of Global Optimization
+  date: '2018-05-03'
+  link: https://doi.org/gdxnkz
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -380,18 +520,6 @@
   publisher: Computers &amp; Chemical Engineering
   date: '2018-08-01'
   link: https://doi.org/gfmqgr
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s10898-018-0643-0
-  title: Optimization of black-box problems using Smolyak grids and polynomial approximations
-  authors:
-  - Chris A. Kieslich
-  - Fani Boukouvala
-  - Christodoulos A. Floudas
-  publisher: Journal of Global Optimization
-  date: '2018-05-03'
-  link: https://doi.org/gdxnkz
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -578,57 +706,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84911476717
-  title: Optimization of CO2 Capture, Utilization and Sequestration (CCUS) supply
-    chain networks
-  publisher: 'Environmental Division 2013 - Core Programming Area at the 2013 AIChE
-    Annual Meeting: Global Challenges for Engineering a Sustainable Future'
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911476717&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84911982142
-  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
-    chain networks
-  publisher: 'Separations Division 2013 - Core Programming Area at the 2013 AIChE
-    Annual Meeting: Global Challenges for Engineering a Sustainable Future'
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911982142&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84911902059
-  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
-    chain networks
-  publisher: 'Sustainable Engineering Forum 2013 - Core Programming Area at the 2013
-    AIChE Annual Meeting: Global Challenges for Engineering a Sustainable Future'
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911902059&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84911890733
-  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
-    chain networks
-  publisher: 'Engineering Sciences and Fundamentals 2013 - Core Programming Area at
-    the 2013 AIChE Annual Meeting: Global Challenges for Engineering a Sustainable
-    Future'
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911890733&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84910006128
-  title: Optimization of CO2 capture, utilization and sequestration (CCUS) supply
-    chain networks
-  publisher: 'CO2 Capture 2013 - Topical Conference at the 2013 AIChE Annual Meeting:
-    Global Challenges for Engineering a Sustainable Future'
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84910006128&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.ces.2013.01.053
   title: Reduced-order discrete element method modeling
   authors:
@@ -710,7 +787,7 @@
   title: 'Flexible multipurpose Continuous processing: Integration of process flow
     modeling for continuous processing of pharmaceutical solid dosage forms'
   publisher: Pharmaceutical Processing
-  date: '2023-04-04'
+  date: '2025-03-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864183677&partnerID=MN8TOARS
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
@@ -760,42 +837,12 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85054521995
-  title: Dynamic simulation of the dissolution of pharmaceutical tablet Integrated
-    with continuous manufacturing process
-  publisher: Comprehensive Quality by Design in Pharmaceutical Development and Manufacture
-    - Topical Conference at the 2011 AIChE Annual Meeting
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054521995&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: eid:2-s2.0-84856747083
   title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
     with continuous manufacturing process
   publisher: AIChE Annual Meeting, Conference Proceedings
-  date: '2023-04-04'
+  date: '2025-03-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856747083&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-85054797529
-  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
-    with continuous manufacturing process
-  publisher: Food, Pharmaceutical and Bioengineering Division - Core Programming Topic
-    at the 2011 AIChE Annual Meeting
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054797529&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-85054764130
-  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
-    with continuous manufacturing process
-  publisher: Process Development Division - Core Programming Topic at the 2011 AIChE
-    Annual Meeting
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054764130&partnerID=MN8TOARS
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
@@ -809,26 +856,6 @@
   publisher: Computer Aided Chemical Engineering
   date: '2011-01-01'
   link: https://doi.org/br5xwh
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-85054536476
-  title: Multivariate analysis and reduced order modeling based on Discrete Element
-    Method (DEM) simulations for a powder blender
-  publisher: Computing and Systems Technology Division - Core Programming Topic at
-    the 2011 AIChE Annual Meeting
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054536476&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-85054472963
-  title: Simulation based optimization of expensive flowsheet models for continuous
-    pharmaceutical manufacturing
-  publisher: Computing and Systems Technology Division - Core Programming Topic at
-    the 2011 AIChE Annual Meeting
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85054472963&partnerID=MN8TOARS
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
