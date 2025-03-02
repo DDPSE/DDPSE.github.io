@@ -344,18 +344,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s11590-019-01508-8
-  title: 'Correction to: A preface to the special issue in memory of Professor Christodoulos
-    A. Floudas'
-  authors:
-  - Fani Boukouvala
-  - Chrysanthos E. Gounaris
-  publisher: Optimization Letters
-  date: '2019-11-26'
-  link: https://doi.org/gt48tp
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/B978-0-323-88506-5.50164-9
   title: Data-driven Branch-and-bound Algorithms for Constrained Simulation-based
     Optimization
@@ -762,15 +750,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84968919497
-  title: Effect of lubricant mixing time and concentration, compaction speed and compression
-    force on the dissolution profile of a control release formulation
-  publisher: Sustainable Packaging Symposium 2012
-  date: '2023-04-04'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84968919497&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.compchemeng.2011.06.005
   title: Feasibility analysis of black-box processes using an adaptive sampling Kriging-based
     method
@@ -780,33 +759,6 @@
   publisher: Computers &amp; Chemical Engineering
   date: '2012-01-01'
   link: https://doi.org/fdc33s
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84864183677
-  title: 'Flexible multipurpose Continuous processing: Integration of process flow
-    modeling for continuous processing of pharmaceutical solid dosage forms'
-  publisher: Pharmaceutical Processing
-  date: '2025-03-02'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864183677&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1208/s12249-011-9723-x
-  title: Improvement of Tablet Coating Uniformity Using a Quality by Design Approach
-  authors:
-  - Atul Dubey
-  - Fani Boukouvala
-  - Golshid Keyvan
-  - Richard Hsia
-  - Kostas Saranteas
-  - Dean Brone
-  - Tushar Misra
-  - Marianthi G. Ierapetritou
-  - Fernando J. Muzzio
-  publisher: AAPS PharmSciTech
-  date: '2012-01-10'
-  link: https://doi.org/fx3hdz
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
