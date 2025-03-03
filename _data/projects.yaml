@@ -1,57 +1,70 @@
 - title: Data-Driven Optimization
-  subtitle: New methods and tools for global optimization with data
+  subtitle: We develop methods and tools for data-dependent global optimization
   group: featured
   image: images/ddopt.png
   link: https://github.com/DDPSE
-  description: We work on development of new methods and tools for global optimization with data. Data may come from expensive simulations or experiments. Our work combines machine learning and global optimization techniques such as branching and bounding to develop reliable, efficient and globally convergent methods.
+  description: In our DDPSE github repository, find two tools for simulation-based optimization: DDSBB and MINOAN. Our work combines machine learning and global optimization techniques to develop reliable, efficient and globally convergent methods.
   repo: https://github.com/DDPSE
   tags:
     - optimization
     - software
+    - machine learning
 
 - title: Hybrid Process-Informed Machine Learning
-  subtitle: New methods for development of hybrid models
+  subtitle: We develop techniques for merging mechanistic with Machine Learning models
   group: featured
   image: images/hm.png
   link: https://ddpse.github.io/research/
-  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. 
+  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computer & Chemical Engineering.
   tags:
-    - hybridmodeling
+    - hybrid modeling
+    - machine learning
+    - multiscale modeling
 
 - title: Plastics Recycling
-  subtitle: We develop models to study new plastics recycling technologies.
-  image: images/photo.jpg
+  subtitle: We develop models to study new plastics recycling technologies
+  group: featured
+  image: images/plastics.jpg
   link: https://ddpse.github.io/research/
-  description: In this collaborative project, we build models to understand how a new solids-based processing technology can be used to chemically depolymerize plastics. We start with modeling particle movement within ball mill processes, to developing an integrated flowsheet model of the plastics recycling process, to performing technoeconomic and life-cycle analysis, to finally studying supply chain effects of new recycling technologies.
+  description: In this collaborative project, we build models to understand how new solids-based processing technology can be used to chemically depolymerize plastics. We start with modeling particle movement within ball mill processes, then proceed to develop an integrated flowsheet model technoeconomic and life-cycle analysis. Finally we supply chain effects of new recycling technologies. Find out more through our recent publications.
   tags:
     - recycling
     - sustainability
+    - multiscale modeling
 
 - title: Power Grid Operations
-  subtitle: Using hybrid process-informed machine learning to optimize power grid operations under contingencies. 
+  subtitle: We use hybrid process-informed machine learning to optimize power grid operations. 
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
-  description: Power grids must operate optimally and reliably even when contingencies occur (e.g., power-outs, weather events). Power grids are large highly interconnected systems, similar to large chemical process flowsheets. Previously, we employed our hybrid and process-informed machine learning expertise to expedite solutions of optimization problems related to power grid operations.
-  repo: https://ddpse.github.io/research/
+  description: Power grids must operate optimally and reliably even when contingencies occur. Power grids are large highly interconnected systems, similar to large chemical process flowsheets. Our process-informed machine learning approach enabled solutions of largescale optimization formulations of power grid operations under contingency. Find out more in our published work and our collaborators repository. 
+  repo: https://github.com/sandialabs/redly
   tags:
-    - powergrids
+    - power grids
     - resilience
+    - hybrid modeling
+    - software
 
 - title: Carbon capture
-  subtitle: Surrogate modeling and data-driven optimization of carbon capture processes.
+  subtitle: We employ surrogate-based optimization to design carbon capture processes
+  group: featured
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
-  description: To design future carbon capture systems, detailed models must be used to optimize their design and operation, subject to economic and energy constraints. 
+  description: To expedite the wide adoption of carbon capture systems (for flue gas and direct-air capture), detailed models must be used to optimize their design and operation, so that they are economical, energy efficient and safe for communities. Our data-driven optimization tools and customized surrogate-based optimization methods have been used in collaborative projects to identify feasible and efficient design and operation of adsorption-based capture systems. Find out more by reading our publications!
   tags:
-    - carboncapture
+    - carbon capture
     - sustainability
+    - optimization
+    - machine learning
 
 - title: Bioprocess Optimization
-  subtitle: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
+  subtitle: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses
+  group: featured
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
   description: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
   tags:
     - bioprocess
     - sustainability
+    - hybrid modeling
+    - machine learning
 
