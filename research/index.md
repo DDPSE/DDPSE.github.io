@@ -14,7 +14,7 @@ Here, you'll find our latest contributions to journals, conferences and book cha
 ## Highlighted
 
 {% include citation.html lookup="Perspectives on the integration between first-principles and data-driven modeling" style="rich" %}
-{% include citation.html lookup="Enabling global interpolation, derivative estimation and model identification from sparse multi-experiment time series data via neural ODEs" %}
+{% include citation.html lookup="Enabling global interpolation, derivative estimation and model identification from sparse multi-experiment time series data via neural ODEs" style="rich" %}
 {% include citation.html lookup="Process development and techno-economic analysis for mechanochemical recycling of poly(ethylene terephthalate)" style="rich" %}
 {% include citation.html lookup="Optimization with Neural Network Feasibility Surrogates: Formulations and Application to Security-Constrained Optimal Power Flow" style="rich" %}
 {% include citation.html lookup="Data-driven spatial branch-and-bound algorithms for box-constrained simulation-based optimization" style="rich" %}
