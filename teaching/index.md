@@ -11,7 +11,12 @@ Dr. Boukouvala has developed the elective course: "Data-Driven Process Systems E
 
 This course is offered in a fully online asynchronous format. You can find the course material on a repository on our [DDPSE github page](https://github.com/DDPSE/GT_DataDrivenPSE_Course/tree/main) <br>
 
-Contact Dr. Boukouvala if you are interested in taking the course and have questions.  Moreover, contact us if you are interested in contributing to the course content and learning more about online teaching via a research experience. 
+As part of the DSCI program, this course has been associated with two awards, the GT Curricullum Innovation Award in 2023 and the AIChE CAST Himmelblau Award for Computer-Aided Education in 2024. If you want to know more about the DSCI program, watch our latest invited [webinar](https://www.youtube.com/watch?v=nYB7SH-La8M&list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP) <br>
+
+Several PhD students have contributed to the content generation of this innovative course, due to its close connection to cutting-edge research in DDPSE. Find out more in our [publication in Chemical Engineering Education Journal](https://journals.flvc.org/cee/article/view/130434).  Contact Dr. Boukouvala if you are interested in contributing to the course content and learning more about online teaching via a research experience. <br>
+
+[Contact](https://ddpse.github.io/contact/) Dr. Boukouvala if you are interested in taking the course and have questions. <br> 
+
 
 {% include section.html %}
 
