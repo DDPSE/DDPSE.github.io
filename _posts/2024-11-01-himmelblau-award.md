@@ -4,8 +4,10 @@ author: fani
 tags:
   - award
   - education
-  - big data
+  - ML
 ---
+
+{% include figure.html image="images/DSCI.jpg" %}
 
 Fani Boukouvala, Andrew Medford, Martha Grover, Carson Meredith and David Sholl were awarded the AIChE Computing and Systems Technology Himmelblau Award for innovations in Computer-Aided Education, for the creation of the Data-Science Certificate for the Chemical Industries. <br> <br>
 You can watch the online webinar describing the program here: [DSCI Webinar](https://www.youtube.com/watch?v=nYB7SH-La8M&list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP/) <br> 
