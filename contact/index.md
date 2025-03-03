@@ -30,6 +30,12 @@ Contact us to explore potential opportunities and collaborations via email. If y
   link="https://maps.app.goo.gl/kndr2NobrosUWM7B8"
 %}
 
+# {% include icon.html icon="fa-regular fa-envelope" %}Useful Links
+- [School of Chemical & Biomolecular Engineering website](https://chbe.gatech.edu/)
+- [Data Science Certificate for the Chemical Industries website](https://chbe.gatech.edu/online-graduate-certificate-data-science-chemical-industry)
+- [American Institute of Chemical Engineers Computing and Systems Technology Division website](https://www.aiche.org/community/sites/divisions-forums/computing-systems-technology-division-cast?gad_source=1&gclid=EAIaIQobChMI-b7W1tDsiwMVAhJECB3UoAGJEAAYASAAEgJjl_D_BwE) 
+
+
 {% include section.html %}
 
 {% capture col1 %}
@@ -37,7 +43,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
 {%
   include figure.html
   image="images/visitusimage1.jpg"
-  caption="Lorem ipsum"
+  caption="Ford Environmental Science Technology Building"
 %}
 
 {% endcapture %}
@@ -47,7 +53,7 @@ Contact us to explore potential opportunities and collaborations via email. If y
 {%
   include figure.html
   image="images/main-campus.jpg"
-  caption="Lorem ipsum"
+  caption="Georgia Tech Campus - view of Tech Tower"
 %}
 
 {% endcapture %}
