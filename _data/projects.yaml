@@ -8,7 +8,7 @@
   tags:
     - optimization
     - software
-    - machine learning
+    - ML
 
 - title: Hybrid Process-Informed Machine Learning
   subtitle: We develop techniques for merging mechanistic with Machine Learning models
@@ -17,9 +17,9 @@
   link: https://ddpse.github.io/research/
   description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computer & Chemical Engineering.
   tags:
-    - hybrid modeling
-    - machine learning
-    - multiscale modeling
+    - hybrid
+    - ML
+    - multiscale
 
 - title: Plastics Recycling
   subtitle: We develop models to study new plastics recycling technologies
@@ -30,7 +30,7 @@
   tags:
     - recycling
     - sustainability
-    - multiscale modeling
+    - multiscale
 
 - title: Power Grid Operations
   subtitle: We use hybrid process-informed machine learning to optimize power grid operations. 
@@ -39,9 +39,8 @@
   description: Power grids must operate optimally and reliably even when contingencies occur. Power grids are large highly interconnected systems, similar to large chemical process flowsheets. Our process-informed machine learning approach enabled solutions of largescale optimization formulations of power grid operations under contingency. Find out more in our published work and our collaborators repository. 
   repo: https://github.com/sandialabs/redly
   tags:
-    - power grids
     - resilience
-    - hybrid modeling
+    - hybrid
     - software
 
 - title: Carbon capture
@@ -51,10 +50,9 @@
   link: https://ddpse.github.io/research/
   description: To expedite the wide adoption of carbon capture systems (for flue gas and direct-air capture), detailed models must be used to optimize their design and operation, so that they are economical, energy efficient and safe for communities. Our data-driven optimization tools and customized surrogate-based optimization methods have been used in collaborative projects to identify feasible and efficient design and operation of adsorption-based capture systems. Find out more by reading our publications!
   tags:
-    - carbon capture
     - sustainability
     - optimization
-    - machine learning
+    - ML
 
 - title: Bioprocess Optimization
   subtitle: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses
@@ -63,8 +61,7 @@
   link: https://ddpse.github.io/research/
   description: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
   tags:
-    - bioprocess
     - sustainability
-    - hybrid modeling
-    - machine learning
+    - hybrid
+    - ML
 
