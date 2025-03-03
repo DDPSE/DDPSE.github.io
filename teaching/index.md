@@ -15,8 +15,4 @@ Contact Dr. Boukouvala if you are interested in taking the course and have quest
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
 {% include search-info.html %}
