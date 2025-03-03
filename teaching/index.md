@@ -17,6 +17,8 @@ Several PhD students have contributed to the content generation of this innovati
 
 [Contact](https://ddpse.github.io/contact/) Dr. Boukouvala if you are interested in taking the course and have questions. <br> 
 
+{% include figure.html image="images/DSCI.jpg" %}
+
 
 {% include section.html %}
 
