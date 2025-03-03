@@ -8,19 +8,21 @@
   tags:
     - hybrid
     - ML
-- id: https://doi.org/10.3390/en16165913
+- id: doi.org/10.3390/en16165913
   image: /images/powergrids.webp
   tags:
     - hybrid
     - ML
-    - resilience
+    - optimization
+    
 - id: doi:10.1007/s10898-021-01045-8
   image: /images/pyddsbb.webp
   tags:
     - optimization
     - software
     - ML
-- id: https://doi.org/10.1016/j.cej.2023.148278
+    
+- id: doi.org/10.1016/j.cej.2023.148278
   image: /images/tea_plastics.jpg
   tags:
     - sustainability
