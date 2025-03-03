@@ -42,8 +42,8 @@ Contact us to explore potential opportunities and collaborations via email. If y
 
 {%
   include figure.html
-  image="images/visitusimage1.jpg"
-  caption="Ford Environmental Science Technology Building"
+  image="images/green-kendeda-4.jpg"
+  caption="Georgia Tech's Living Building - Kendeda Building"
 %}
 
 {% endcapture %}
