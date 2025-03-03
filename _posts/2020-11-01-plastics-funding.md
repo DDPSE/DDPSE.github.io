@@ -3,7 +3,9 @@ title: DDPSE Lab receives funding to work on new plastics recycling processes
 author: fani
 tags:
   - award
-  - plastics
+  - sustainability
+  - TEA
+  - design
 ---
 
 {% include figure.html image="images/plastics.jpg" %}
