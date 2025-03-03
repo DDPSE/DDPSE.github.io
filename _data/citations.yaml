@@ -274,8 +274,9 @@
   date: '2022-10-01'
   link: https://doi.org/gqzvdn
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/hm.png
 - id: doi:10.1021/acssuschemeng.2c03376
   title: Stages and Kinetics of Mechanochemical Depolymerization of Poly(ethylene
     terephthalate) with Sodium Hydroxide
