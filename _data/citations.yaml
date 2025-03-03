@@ -83,8 +83,13 @@
   date: '2024-02-01'
   link: https://doi.org/gt48tc
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/tea_plastics.jpg
+  tags:
+  - sustainability
+  - TEA
+  - design
 - id: doi:10.1039/d4dd00163j
   title: Micro-kinetic modeling of temporal analysis of products data using kinetics-informed
     neural networks
@@ -168,8 +173,13 @@
   date: '2023-08-10'
   link: https://doi.org/gt48td
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/powergrids.webp
+  tags:
+  - hybrid
+  - ML
+  - optimization
 - id: doi:10.1016/B978-0-443-15274-0.50382-6
   title: Discrete Element Simulation and Economics of Mechanochemical Grinding of
     Plastic Waste at an Industrial Scale
@@ -839,37 +849,3 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: https://doi.org/10.3390/en16165913
-  title: 'Optimization with Neural Network Feasibility Surrogates: Formulations and
-    Application to Security-Constrained Optimal Power Flow'
-  authors:
-  - Zachary Kilwein
-  - Jordan Jalving
-  - Michael Eydenberg
-  - Logan Blakely
-  - Kyle Skolfield
-  - Carl Laird
-  - Fani Boukouvala
-  publisher: Energies
-  date: '2023-01-01'
-  link: https://www.mdpi.com/1996-1073/16/16/5913
-  image: /images/powergrids.webp
-  tags:
-  - hybrid
-  - ML
-  - resilience
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.1016/j.cej.2023.148278
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1016/j.cej.2023.148278
-  image: /images/tea_plastics.jpg
-  tags:
-  - sustainability
-  - TEA
-  - design
-  plugin: sources.py
-  file: sources.yaml
