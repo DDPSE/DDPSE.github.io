@@ -1,2 +1,14 @@
 - id: doi:10.1016/j.compchemeng.2022.107898
   image: /images/hm.png
+
+- id: https://doi.org/10.3390/en16165913
+image: https://www.mdpi.com/energies/energies-16-05913/article_deploy/html/images/energies-16-05913-g001-550.jpg
+
+- id: doi:10.1007/s10898-021-01045-8
+image: https://link.springer.com/article/10.1007/s10898-021-01045-8/figures/3
+
+- id: https://doi.org/10.1016/j.cej.2023.148278
+image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894723070109-gr3.jpg
+
+- id: doi:10.1016/j.engappai.2023.107611
+image: /images/hm.png
