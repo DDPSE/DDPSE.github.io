@@ -39,7 +39,10 @@
   orcid: 0000-0002-0584-1517
   plugin: sources.py
   file: sources.yaml
-  image: /images/hm.png
+  image: /images/eaai.jpg
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1016/j.compchemeng.2023.108523
   title: 'Machine learning in process systems engineering: Challenges and opportunities'
   authors:
@@ -234,7 +237,11 @@
   orcid: 0000-0002-0584-1517
   plugin: sources.py
   file: sources.yaml
-  image: https://link.springer.com/article/10.1007/s10898-021-01045-8/figures/3
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - software
+  - ML
 - id: doi:10.1016/j.cherd.2022.10.002
   title: Data-driven simultaneous process optimization and adsorbent selection for
     vacuum pressure swing adsorption
@@ -279,6 +286,9 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/hm.png
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1021/acssuschemeng.2c03376
   title: Stages and Kinetics of Mechanochemical Depolymerization of Poly(ethylene
     terephthalate) with Sodium Hydroxide
@@ -843,7 +853,11 @@
   publisher: Energies
   date: '2023-01-01'
   link: https://www.mdpi.com/1996-1073/16/16/5913
-  image: https://www.mdpi.com/energies/energies-16-05913/article_deploy/html/images/energies-16-05913-g001-550.jpg
+  image: /images/powergrids.webp
+  tags:
+  - hybrid
+  - ML
+  - resilience
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.cej.2023.148278
@@ -852,6 +866,10 @@
   publisher: ''
   date: ''
   link: https://doi.org/10.1016/j.cej.2023.148278
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894723070109-gr3.jpg
+  image: /images/tea_plastics.jpg
+  tags:
+  - sustainability
+  - TEA
+  - design
   plugin: sources.py
   file: sources.yaml
