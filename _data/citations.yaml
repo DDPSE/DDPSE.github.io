@@ -37,8 +37,9 @@
   date: '2024-04-01'
   link: https://doi.org/gt48tb
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/hm.png
 - id: doi:10.1016/j.compchemeng.2023.108523
   title: 'Machine learning in process systems engineering: Challenges and opportunities'
   authors:
@@ -231,8 +232,9 @@
   date: '2021-12-02'
   link: https://doi.org/gt48tf
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://link.springer.com/article/10.1007/s10898-021-01045-8/figures/3
 - id: doi:10.1016/j.cherd.2022.10.002
   title: Data-driven simultaneous process optimization and adsorbent selection for
     vacuum pressure swing adsorption
@@ -790,15 +792,6 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84856747083
-  title: Dynamic simulation of the dissolution of pharmaceutical tablet integrated
-    with continuous manufacturing process
-  publisher: AIChE Annual Meeting, Conference Proceedings
-  date: '2025-03-02'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856747083&partnerID=MN8TOARS
-  orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/B978-0-444-53711-9.50087-0
   title: Feasibility analysis of black-box processes using an adaptive sampling kriging
     based method
@@ -836,3 +829,29 @@
   orcid: 0000-0002-0584-1517
   plugin: orcid.py
   file: orcid.yaml
+- id: https://doi.org/10.3390/en16165913
+  title: 'Optimization with Neural Network Feasibility Surrogates: Formulations and
+    Application to Security-Constrained Optimal Power Flow'
+  authors:
+  - Zachary Kilwein
+  - Jordan Jalving
+  - Michael Eydenberg
+  - Logan Blakely
+  - Kyle Skolfield
+  - Carl Laird
+  - Fani Boukouvala
+  publisher: Energies
+  date: '2023-01-01'
+  link: https://www.mdpi.com/1996-1073/16/16/5913
+  image: https://www.mdpi.com/energies/energies-16-05913/article_deploy/html/images/energies-16-05913-g001-550.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.cej.2023.148278
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.cej.2023.148278
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894723070109-gr3.jpg
+  plugin: sources.py
+  file: sources.yaml
