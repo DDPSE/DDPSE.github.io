@@ -1,6 +1,6 @@
 ---
 name: Jacob Sweet
-image: images/team/jacob.jpeg
+image: images/team/jacob.png
 description: PhD Student
 role: phd
 links:
