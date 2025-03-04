@@ -18,7 +18,7 @@ Jacob was born and raised in San Jose, CA. During his undergraduate education at
 ES&T 1354
 
 **Project Spotlight:**  
-Lance-Drane, **Jacob Sweet**, Stephen DeWitt, & Marshall McDonnell. (2025). INTERSECT-DIAL/dial: Dial v0.1 (v0.1). Zenodo. https://doi.org/10.5281/zenodo.14872254
+Lance-Drane, **Jacob Sweet**, Stephen DeWitt, & Marshall McDonnell. (2025). INTERSECT-DIAL/dial: Dial v0.1 (v0.1). Zenodo. [https://doi.org/10.5281/zenodo.14872254](https://doi.org/10.5281/zenodo.14872254).
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18Y34YbLpaWLPv7OW7u0yKd_g7LcKAA8&ehbc=2E312F" width="640" height="480"></iframe>
