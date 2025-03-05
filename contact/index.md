@@ -9,8 +9,7 @@ nav:
 
 {%
   include figure.html
-  image="images/logo_test.jpg"
-  caption="Georgia Tech Campus - view of Tech Tower"
+  image="images/Logo_idea1_SR.png"
 %}
 
 Interested in collaborating, learning more about our research, or joining our team? Feel free to reach out! We welcome inquiries from students, researchers, and industry partners who share our passion for data-driven process systems engineering. 
