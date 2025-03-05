@@ -3,7 +3,7 @@
   group: featured
   image: images/ddopt.png
   link: https://github.com/DDPSE
-  description: In our DDPSE GitHub repository, you can find two tools for simulation-based optimization: DDSBB and MINOAN. Our research integrates machine learning with global optimization techniques to create reliable, efficient, and globally convergent methods. These tools enable practitioners to find improved solutions to engineering problems.
+  description: In our DDPSE GitHub repository, you can find two tools for simulation-based optimization, DDSBB and MINOAN. Our research integrates machine learning with global optimization techniques to create reliable, efficient, and globally convergent methods. These tools enable practitioners to find improved solutions to engineering problems.
   repo: https://github.com/DDPSE
   tags:
     - optimization
@@ -15,13 +15,13 @@
   group: featured
   image: images/hm.png
   link: https://ddpse.github.io/research/
-  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computers & Chemical Engineering.
+  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computers and Chemical Engineering.
   tags:
     - hybrid
     - ML
     - multiscale
 
-- title: Plastics Recycling
+- title: Designing Plastics Recycling Processes
   subtitle: We develop models to study new plastics recycling technologies
   group: featured
   image: images/plastics.jpg
@@ -32,7 +32,7 @@
     - sustainability
     - multiscale
 
-- title: Power Grid Operations
+- title: Optimization of Power Grid Operations
   subtitle: We use hybrid process-informed machine learning to optimize power grid operations. 
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
@@ -43,7 +43,7 @@
     - hybrid
     - software
 
-- title: Carbon capture
+- title: Modeling & Optimization of Carbon Capture processes
   subtitle: We employ surrogate-based optimization to design carbon capture processes
   group: featured
   image: images/photo.jpg
@@ -54,7 +54,7 @@
     - optimization
     - ML
 
-- title: Bioprocess Optimization
+- title: Modeling & Optimization of Bioprocesses
   subtitle: We develop new methods for the optimization and control of robust bioprocesses
   group: featured
   image: images/photo.jpg
