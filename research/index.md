@@ -1,11 +1,11 @@
 ---
-title: Projects
+title: Research
 nav:
-  order: 2
+  order: 1
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 At the *Data-Driven Process Systems Engineering Lab*, we work at the intersection of methods development and real-world applications. Our research spans two key areas:
 1. **Methods-Driven Research:** We develop novel approaches in data-driven optimization and hybrid modeling, integrating machine learning with fundamental process knowledge.
