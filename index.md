@@ -3,7 +3,7 @@
 
 # Data-Driven Process Systems Engineering Lab
 
-At the Data-Driven Process Systems Engineering Lab, we develop hybrid mathematical models and optimization tools to understand, analyze, and enhance complex process systems operating under constraints and competing objectives. Our research spans multiple scales—from molecular and particle-level interactions to single process, to integrated systems, to enterprise-wide operations. 
+At the Data-Driven Process Systems Engineering Lab, we develop hybrid mathematical models and optimization tools to understand, analyze, discover and design complex process systems operating under constraints and competing objectives. Our research spans multiple scales—from molecular and particle-level interactions to single process, to integrated systems, to enterprise-wide operations. 
 
 {% include section.html %}
 
