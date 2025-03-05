@@ -3,7 +3,7 @@
   group: featured
   image: images/ddopt.png
   link: https://github.com/DDPSE
-  description: In our DDPSE github repository, find two tools for simulation-based optimization, DDSBB and MINOAN. Our work combines machine learning and global optimization techniques to develop reliable, efficient and globally convergent methods.
+  description: In our DDPSE GitHub repository, you can find two tools for simulation-based optimization: DDSBB and MINOAN. Our research integrates machine learning with global optimization techniques to create reliable, efficient, and globally convergent methods. These tools enable practitioners to find improved solutions to engineering problems.
   repo: https://github.com/DDPSE
   tags:
     - optimization
@@ -15,7 +15,7 @@
   group: featured
   image: images/hm.png
   link: https://ddpse.github.io/research/
-  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computer & Chemical Engineering.
+  description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computers & Chemical Engineering.
   tags:
     - hybrid
     - ML
@@ -26,7 +26,7 @@
   group: featured
   image: images/plastics.jpg
   link: https://ddpse.github.io/research/
-  description: In this collaborative project, we build models to understand how new solids-based processing technology can be used to chemically depolymerize plastics. We start with modeling particle movement within ball mill processes, then proceed to develop an integrated flowsheet model technoeconomic and life cycle analysis. Finally we supply chain effects of new recycling technologies. Find out more through our recent publications.
+  description: In this collaborative project, we build models to understand how solids-based processing technology can be used to depolymerize plastics. We start with modeling particle movement within ball mill processes, then develop an integrated flowsheet model and perform technoeconomic, life cycle and supply chain analysis (see publications). 
   tags:
     - recycling
     - sustainability
@@ -36,7 +36,7 @@
   subtitle: We use hybrid process-informed machine learning to optimize power grid operations. 
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
-  description: Power grids must operate optimally and reliably even when contingencies occur. Power grids are large highly interconnected systems, similar to large chemical process flowsheets. Our process informed machine learning approach enabled solutions of largescale optimization formulations of power grid operations under contingency. Find out more in our published work and our collaborators repository. 
+  description: Power grids are interconnected systems that must operate optimally and reliably even when contingencies occur. Our process informed machine learning approach enabled solutions of largescale optimization formulations of power grid operations under contingencies. Find out more in our published work and our collaborators repository. 
   repo: https://github.com/sandialabs/redly
   tags:
     - resilience
@@ -48,18 +48,18 @@
   group: featured
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
-  description: To expedite the wide adoption of carbon capture systems (for flue gas and direct-air capture), detailed models must be used to optimize their design and operation, so that they are economical, energy efficient and safe for communities. Our data-driven optimization tools and customized surrogate based optimization methods have been used in collaborative projects to identify feasible and efficient design and operation of adsorption-based capture systems. Find out more by reading our publications!
+  description: To expedite the wide adoption of carbon capture systems (for flue gas and direct-air capture), detailed models must be used to optimize their design and operation, so that they are economical, energy efficient and safe. Our data-driven optimization tools have been used in collaborative projects to find feasible and efficient designs.
   tags:
     - sustainability
     - optimization
     - ML
 
 - title: Bioprocess Optimization
-  subtitle: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses
+  subtitle: We develop new methods for the optimization and control of robust bioprocesses
   group: featured
   image: images/photo.jpg
   link: https://ddpse.github.io/research/
-  description: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to control future bioprocesses. 
+  description: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to develop new workflows needed for the growing bioeconomy. his collaborative project aims to address challenges caused by the lack of monitoring techniques and predictive models, which hinder scale-up and wide adoption.
   tags:
     - sustainability
     - hybrid
