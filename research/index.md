@@ -28,4 +28,4 @@ Our projects blend theoretical advancements with impactful applications to creat
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " %}
