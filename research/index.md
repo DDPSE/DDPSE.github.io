@@ -12,6 +12,8 @@ At the *Data-Driven Process Systems Engineering Lab*, we work at the intersectio
 2. **Application-Driven Research:** We apply our methods to tackle pressing challenges in energy systems and sustainable manufacturing.
 Our projects blend theoretical advancements with impactful applications to create sustainable and efficient engineering solutions.
 
+{% include figure.html image="images/overview.png" %}
+
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
