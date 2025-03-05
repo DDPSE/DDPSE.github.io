@@ -7,11 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-{%
-  include figure.html
-  image="images/Logo_idea1_SR.png"
-%}
-
 Interested in collaborating, learning more about our research, or joining our team? Feel free to reach out! We welcome inquiries from students, researchers, and industry partners who share our passion for data-driven process systems engineering. 
 <br> 
 Contact us to explore potential opportunities and collaborations via email. If you are interested in joining our lab, you can use the Bookings link below to schedule a meeting with Dr. Boukouvala.
