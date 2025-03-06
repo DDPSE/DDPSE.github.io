@@ -5,6 +5,7 @@ description: PhD Student
 role: phd
 links:
   email: slaxminarayan3@gatech.edu
+  orcid: 0000-0002-5269-5612
 ---
 
 B.S. in Chemical Engineering, University of Minnesota
