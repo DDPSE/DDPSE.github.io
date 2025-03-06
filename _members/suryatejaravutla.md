@@ -5,6 +5,7 @@ role: phd
 description: PhD student
 links:
   email: sravutla3@gatech.edu
+  orcid: 0000-0002-5039-8032
 ---
 
 B.S. in Chemical Engineering, from Indian Institute of Technology Hyderabad, 2018
