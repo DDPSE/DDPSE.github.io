@@ -14,7 +14,7 @@ By integrating data-analytics, machine learning, and operations research with ch
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -26,8 +26,8 @@ By integrating data-analytics, machine learning, and operations research with ch
 {%
   include feature.html
   image="images/ai-ddpse-picture.webp"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
@@ -37,7 +37,7 @@ Our hybrid process-informed machine learning approaches have contributed to adva
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our projects and tools"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -49,8 +49,8 @@ Our hybrid process-informed machine learning approaches have contributed to adva
 {%
   include feature.html
   image="images/ai-ddpselogo.webp"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Our Projects and Tools"
   flip=true
   style="bare"
   text=text
