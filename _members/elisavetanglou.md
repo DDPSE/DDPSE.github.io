@@ -10,3 +10,5 @@ links:
 B.S. in Chemical Engineering, National Technical University of Athens
 
 MSc in Advanced Chemical Engineering with Process System Engineering, Imperial College London
+
+**Office:** ES&T 1354
