@@ -5,6 +5,7 @@ description: Associate Professor, PI
 role: pi
 links:
   email: fboukouvala6@gatech.edu
+  orcid: 0000-0002-0584-1517
 ---
 
 B.S. in Chemical Engineering, National Technical University of Athens
