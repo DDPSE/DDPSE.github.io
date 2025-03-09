@@ -16,9 +16,9 @@ Since we recently updated our website, we have consolidated some important past 
 
 Here are some photos from their graduations
 
-{% include figure.html image="images/Sophie_jackie_garduation.jpg" %}
-{% include figure.html image="images/WilliamGraduation.jpg" %}
-{% include figure.html image="images/jinhyeun-zach.jpg" %}
+{% include feature.html image="images/Sophie_jackie_garduation.jpg" %}
+{% include feature.html image="images/WilliamGraduation.jpg" %}
+{% include feature.html image="images/jinhyeun-zach.jpg" %}
 
 
 
