@@ -18,9 +18,9 @@ Here are some photos from their graduations:
 
 {% capture content %}
 
-{% include figure.html image="images/team/Sophie_jackie_garduation.jpg" %}
-{% include figure.html image="images/team/WilliamGraduation.jpg" %}
-{% include figure.html image="images/team/jinhyeun-zach.jpg" %}
+{% include figure.html image="images/Sophie_jackie_garduation.jpg" %}
+{% include figure.html image="images/WilliamGraduation.jpg" %}
+{% include figure.html image="images/jinhyeun-zach.jpg" %}
 
 {% endcapture %}
 
