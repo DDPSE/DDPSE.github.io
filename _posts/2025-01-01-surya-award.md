@@ -1,6 +1,6 @@
 ---
 title: Suryateja Ravutla awarded Hal Field Fellowship
-author: fani
+author: surya
 tags: award
 ---
 
