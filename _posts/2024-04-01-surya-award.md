@@ -1,6 +1,6 @@
 ---
 title: Suryateja Ravutla awarded as Institute-wide Outstanding Online Teaching Assistant from CETL, Georgia Tech
-author: fani
+author: surya
 tags: award
 ---
 
