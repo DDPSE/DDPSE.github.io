@@ -14,11 +14,18 @@ Since we recently updated our website, we have consolidated some important past 
 - Jinhyeun Kim, PhD 2023
 - Zachary Kilwein, PhD 2024
 
-Here are some photos from their graduations
+Here are some photos from their graduations:
 
-{% include feature.html image="images/Sophie_jackie_garduation.jpg" %}
-{% include feature.html image="images/WilliamGraduation.jpg" %}
-{% include feature.html image="images/jinhyeun-zach.jpg" %}
+{% capture content %}
+
+{% include figure.html image="images/team/Sophie_jackie_garduation.jpg" %}
+{% include figure.html image="images/team/WilliamGraduation.jpg" %}
+{% include figure.html image="images/team/jinhyeun-zach.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
 
 
 
