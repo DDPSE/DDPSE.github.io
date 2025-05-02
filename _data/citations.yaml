@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.iecr.4c03303
+  title: Effects of Surrogate Hybridization and Adaptive Sampling for Simulation-Based
+    Optimization
+  authors:
+  - Suryateja Ravutla
+  - Andrew Bai
+  - Matthew J. Realff
+  - Fani Boukouvala
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2025-04-15'
+  link: https://doi.org/g9g8jk
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.69997/sct.151585
   title: Integrating Hybrid Modeling and Multifidelity Approaches for Data-Driven
     Process Model Discovery
