@@ -11,7 +11,7 @@ Dr. Elisavet Anglou has successfully defended her PhD on "Modeling plastics recy
 
 {% capture content %}
 
-{% include figure.html image="images/Elisavet_graduation.jpg" %}
+{% include figure.html image="images/Elisavet_graduates.jpeg" %}
 
 {% endcapture %}
 
