@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.iecr.4c03303
+  title: Effects of Surrogate Hybridization and Adaptive Sampling for Simulation-Based
+    Optimization
+  authors:
+  - Suryateja Ravutla
+  - Andrew Bai
+  - Matthew J. Realff
+  - Fani Boukouvala
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2025-04-15'
+  link: https://doi.org/g9g8jk
+  orcid: 0000-0002-0584-1517
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.69997/sct.151585
   title: Integrating Hybrid Modeling and Multifidelity Approaches for Data-Driven
     Process Model Discovery
@@ -183,13 +197,7 @@
 - id: doi:10.1016/B978-0-443-15274-0.50382-6
   title: Discrete Element Simulation and Economics of Mechanochemical Grinding of
     Plastic Waste at an Industrial Scale
-  authors:
-  - Elisavet Anglou
-  - Yuchen Chang
-  - Arvind Ganesan
-  - Sankar Nair
-  - Carsten Sievers
-  - Fani Boukouvala
+  authors: []
   publisher: Computer Aided Chemical Engineering
   date: '2023-01-01'
   link: https://doi.org/g86sg5
@@ -199,10 +207,7 @@
 - id: doi:10.1016/B978-0-443-15274-0.50209-2
   title: Hybrid Modeling and Multi-Fidelity Approaches for Data-Driven Branch-and-Bound
     Optimization
-  authors:
-  - Suryateja Ravutla
-  - Jianyuan Zhai
-  - Fani Boukouvala
+  authors: []
   publisher: Computer Aided Chemical Engineering
   date: '2023-01-01'
   link: https://doi.org/g86sg6
@@ -321,11 +326,7 @@
   file: orcid.yaml
 - id: doi:10.1016/B978-0-323-85159-6.50290-6
   title: Training Stiff Dynamic Process Models via Neural Differential Equations
-  authors:
-  - William Bradley
-  - "Gabriel S. Gusm\xE3o"
-  - Andrew J. Medford
-  - Fani Boukouvala
+  authors: []
   publisher: Computer Aided Chemical Engineering
   date: '2022-01-01'
   link: https://doi.org/gt48tk
@@ -334,15 +335,7 @@
   file: orcid.yaml
 - id: doi:10.1016/B978-0-323-95879-0.50098-9
   title: Verification of Neural Network Surrogates
-  authors:
-  - Joshua Haddad
-  - Michael Bynum
-  - Michael Eydenberg
-  - Logan Blakely
-  - Zachary Kilwein
-  - Fani Boukouvala
-  - Carl D. Laird
-  - Jordan Jalving
+  authors: []
   publisher: Computer Aided Chemical Engineering
   date: '2022-01-01'
   link: https://doi.org/gt48tm
@@ -352,15 +345,7 @@
 - id: doi:10.1016/B978-0-323-88506-5.50142-X
   title: AC-Optimal Power Flow Solutions with Security Constraints from Deep Neural
     Network Models
-  authors:
-  - Zachary Kilwein
-  - Fani Boukouvala
-  - Carl Laird
-  - Anya Castillo
-  - Logan Blakely
-  - Michael Eydenberg
-  - Jordan Jalving
-  - Lisa Batsch-Smith
+  authors: []
   publisher: Computer Aided Chemical Engineering
   date: '2021-01-01'
   link: https://doi.org/gt48tn
@@ -370,10 +355,7 @@
 - id: doi:10.1016/B978-0-323-88506-5.50164-9
   title: Data-driven Branch-and-bound Algorithms for Constrained Simulation-based
     Optimization
-  authors:
-  - Jianyuan Zhai
-  - Sachin Shirpurkar
-  - Fani Boukouvala
+  authors: []
   publisher: Computer Aided Chemical Engineering
   date: '2021-01-01'
   link: https://doi.org/gt48tq
