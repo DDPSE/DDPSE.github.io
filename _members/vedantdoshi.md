@@ -1,10 +1,10 @@
 ---
-name: Vedant Doshi
-image: images/team/doshi.jpg
-description: Undergraduate Student
-role: undergrad
+name: Cameron Hubbard
+image: images/team/Cameron.jpg
+description: PhD Student
+role: grad
 links:
-  email: vdoshi37@gatech.edu
+  email: chubbard32@gatech.edu
 ---
 
 
