@@ -14,7 +14,7 @@
   subtitle: We develop techniques for merging mechanistic with Machine Learning models
   group: featured
   image: images/hm.png
-  link: https://ddpse.github.io/research/
+  link: https://ddpse.github.io/publications/
   description: We study different hybridization scenarios for model development, including hybrid modeling and process-informed machine learning. We also use machine learning to expedite phenomenological model discovery. Read our publications on this topic, including a recent invited Perspectives article in Computers and Chemical Engineering.
   tags:
     - hybrid
@@ -25,7 +25,7 @@
   subtitle: We develop models to study new plastics recycling technologies
   group: featured
   image: images/plastics.jpg
-  link: https://ddpse.github.io/research/
+  link: https://ddpse.github.io/publications/
   description: In this collaborative project, we build models to understand how solids-based processing technology can be used to depolymerize plastics. We start with modeling particle movement within ball mill processes, then develop an integrated flowsheet model and perform technoeconomic, life cycle and supply chain analysis (see publications). 
   tags:
     - recycling
@@ -35,7 +35,7 @@
 - title: Optimization of Power Grid Operations
   subtitle: We use hybrid process-informed machine learning to optimize power grid operations. 
   image: images/powergrid.webp
-  link: https://ddpse.github.io/research/
+  link: https://ddpse.github.io/publications/
   description: Power grids are interconnected systems that must operate optimally and reliably even when contingencies occur. Our process informed machine learning approach enabled solutions of largescale optimization formulations of power grid operations under contingencies. Find out more in our published work and our collaborators repository. 
   repo: https://github.com/sandialabs/redly
   tags:
@@ -47,7 +47,7 @@
   subtitle: We employ surrogate-based optimization to design carbon capture processes
   group: featured
   image: images/ccpipe.jpg
-  link: https://ddpse.github.io/research/
+  link: https://ddpse.github.io/publications/
   description: To expedite the wide adoption of carbon capture systems (for flue gas and direct-air capture), detailed models must be used to optimize their design and operation, so that they are economical, energy efficient and safe. Our data-driven optimization tools have been used in collaborative projects to find feasible and efficient designs.
   tags:
     - sustainability
@@ -58,7 +58,7 @@
   subtitle: We develop new methods for the optimization and control of robust bioprocesses
   group: featured
   image: images/bioreactor.png
-  link: https://ddpse.github.io/research/
+  link: https://ddpse.github.io/publications/
   description: We propose to use a combination of high-throughput data streams, machine learning and phenomenological models to develop new workflows needed for the growing bioeconomy. his collaborative project aims to address challenges caused by the lack of monitoring techniques and predictive models, which hinder scale-up and wide adoption.
   tags:
     - sustainability
