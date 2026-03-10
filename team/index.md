@@ -33,7 +33,7 @@ Meet our talented team members who make it all happen!
 - Dr. Jinhyeun Kim, PhD
 - Dr. Zachary Kilwein, Currently at Sandia National Labs
 
-## Postdoctoral Associates:
+### Postdoctoral Associates:
 - Dr. Mona Amrihesari, Application Scientist, Technobis
 
 ### Masters Students:
