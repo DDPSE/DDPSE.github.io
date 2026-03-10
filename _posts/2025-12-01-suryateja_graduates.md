@@ -13,7 +13,7 @@ He will be moving on to a new position as a Senior Data Scientist at Aspen Tech 
 
 {% capture content %}
 
-# {% include figure.html image="images/Elisavet_graduates.jpeg" %}
+{% include figure.html image="images/Elisavet_graduates.jpeg" %}
 
 {% endcapture %}
 
