@@ -25,12 +25,16 @@ Meet our talented team members who make it all happen!
 
 # Alumni
 ### PhD Students:
-- Dr. Sophie Kim, PhD, Currently at Dow Chemical
+- Dr. Suryateja Ravutla, Senior Data Scientist at Aspen Tech 
+- Dr. Elisavet Anglou, Postdoctoral Associate at Georgia Institute of Technology
+- Dr. Sophie Kim, PhD, Dow Chemical (2020-2025), Currently at Databricks
 - Dr. Jianyuan Zhai, PhD, Currently at Cargill
 - Dr. William Bradley, PhD, Currently at Bristol Myers Squibb
 - Dr. Jinhyeun Kim, PhD
-- Dr. Zachary Kilwein, Currently at PhD Sandia National Labs
+- Dr. Zachary Kilwein, Currently at Sandia National Labs
 
+## Postdoctoral Associates:
+- Dr. Mona Amrihesari, Application Scientist, Technobis
 
 ### Masters Students:
 - Viggo Stromberg, Visiting MS student
@@ -41,16 +45,17 @@ Meet our talented team members who make it all happen!
 
 
 ### Undergraduate Students:
-- Demetrios Pappas, Undergraduate Student
-- Riddhi Bhattacharya, Undergraduate Student
-- Dormecia Allen, Undergraduate Student
-- Ron Volkovinsky, Undergraduate Student
-- Cameron Chong, Undergraduate Student
-- Alexandra Brown, Undergraduate Student
-- Donovan Piper, Undergraduate Student
-- Dana Paulita Francisco, Undergraduate Student
-- Timothy Mitchell, Undergraduate Student
-- Matthew (Hyun Woo) Kim, Undergraduate Student
+- Doshi Vedant
+- Demetrios Pappas
+- Riddhi Bhattacharya
+- Dormecia Allen
+- Ron Volkovinsky
+- Cameron Chong
+- Alexandra Brown
+- Donovan Piper
+- Dana Paulita Francisco
+- Timothy Mitchell
+- Matthew (Hyun Woo) Kim
 
 {% include section.html background="images/background.jpg" dark=true %}
 
