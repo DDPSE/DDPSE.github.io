@@ -2,7 +2,7 @@
 name: Cameron Hubbard
 image: images/team/Cameron.jpg
 description: PhD Student
-role: grad
+role: phd
 links:
   email: chubbard32@gatech.edu
 ---
