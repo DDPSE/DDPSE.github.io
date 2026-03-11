@@ -11,8 +11,11 @@
   date: '2025-11-01'
   link: https://doi.org/hbrz5j
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/tea_plastics.jpg
+  tags:
+  - sustainability
 - id: doi:10.69997/sct.180358
   title: Integrated hybrid modelling of lignin bioconversion
   authors:
@@ -23,8 +26,12 @@
   date: '2025-07-01'
   link: https://doi.org/hbrz5k
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1021/acssuschemeng.4c09908
   title: 'Enabling Informed Decisions on Pyrolysis: A Key to Turn the Tide on Plastics
     Recycling'
@@ -45,8 +52,11 @@
   date: '2025-06-02'
   link: https://doi.org/hbrz5m
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/tea_plastics.jpg
+  tags:
+  - sustainability
 - id: doi:10.1021/acs.iecr.4c03303
   title: Effects of Surrogate Hybridization and Adaptive Sampling for Simulation-Based
     Optimization
@@ -59,8 +69,13 @@
   date: '2025-04-15'
   link: https://doi.org/g9g8jk
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
+  - optimization
 - id: doi:10.69997/sct.151585
   title: Integrating Hybrid Modeling and Multifidelity Approaches for Data-Driven
     Process Model Discovery
@@ -71,8 +86,12 @@
   date: '2024-07-09'
   link: https://doi.org/g86sgv
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.69997/sct.180587
   title: 'Towards Sustainable Supply Chains for Waste Plastics through Closed-Loop
     Recycling: A case-study for Georgia'
@@ -85,8 +104,12 @@
   date: '2024-07-09'
   link: https://doi.org/g86sgz
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - sustainability
+  - design
 - id: doi:10.1016/j.engappai.2023.107611
   title: Enabling global interpolation, derivative estimation and model identification
     from sparse multi-experiment time series data via neural ODEs
@@ -100,7 +123,7 @@
   orcid: 0000-0002-0584-1517
   plugin: sources.py
   file: sources.yaml
-  image: /images/eaai.jpg
+  image: /images/pyddsbb.webp
   tags:
   - hybrid
   - ML
@@ -124,8 +147,11 @@
   date: '2024-02-01'
   link: https://doi.org/gtb5kf
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
 - id: doi:10.1016/j.cej.2023.148278
   title: Process development and techno-economic analysis for mechanochemical recycling
     of poly(ethylene terephthalate)
@@ -164,8 +190,12 @@
   date: '2024-01-01'
   link: https://doi.org/g8p3k9
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1021/acssuschemeng.3c06081
   title: Modeling Mechanochemical Depolymerization of PET in Ball-Mill Reactors Using
     DEM Simulations
@@ -179,8 +209,12 @@
   date: '2024-06-04'
   link: https://doi.org/g86sg2
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/tea_plastics.jpg
+  tags:
+  - sustainability
+  - design
 - id: doi:10.1016/j.ijepes.2023.109741
   title: 'Physics-informed machine learning with optimization-based guarantees: Applications
     to AC power flow'
@@ -197,8 +231,13 @@
   date: '2024-06-01'
   link: https://doi.org/g86sg3
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
+  - optimization
 - id: doi:10.1016/j.ijggc.2024.104260
   title: Surrogate model optimization of vacuum pressure swing adsorption using a
     flexible metal organic framework with hysteretic sigmoidal isotherms
@@ -217,8 +256,12 @@
   date: '2024-10-01'
   link: https://doi.org/g86sg4
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - design
 - id: doi:10.3390/en16165913
   title: 'Optimization with Neural Network Feasibility Surrogates: Formulations and
     Application to Security-Constrained Optimal Power Flow'
@@ -236,7 +279,7 @@
   orcid: 0000-0002-0584-1517
   plugin: sources.py
   file: sources.yaml
-  image: /images/powergrids.webp
+  image: /images/pyddsbb.webp
   tags:
   - hybrid
   - ML
@@ -249,8 +292,13 @@
   date: '2023-01-01'
   link: https://doi.org/g86sg5
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - sustainability
+  - TEA
+  - design
 - id: doi:10.1016/B978-0-443-15274-0.50209-2
   title: Hybrid Modeling and Multi-Fidelity Approaches for Data-Driven Branch-and-Bound
     Optimization
@@ -259,8 +307,13 @@
   date: '2023-01-01'
   link: https://doi.org/g86sg6
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
+  - optimization
 - id: doi:10.1016/j.compchemeng.2023.108320
   title: Physics-based Penalization for Hyperparameter Estimation in Gaussian Process
     Regression
@@ -273,8 +326,12 @@
   date: '2023-10-01'
   link: https://doi.org/g86sg7
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1007/s11081-022-09740-5
   title: Surrogate-based branch-and-bound algorithms for simulation-based black-box
     optimization
@@ -285,8 +342,13 @@
   date: '2022-09-02'
   link: https://doi.org/gt48tj
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - software
+  - ML
 - id: doi:10.1007/s10898-021-01045-8
   title: Data-driven spatial branch-and-bound algorithms for box-constrained simulation-based
     optimization
@@ -317,8 +379,12 @@
   date: '2022-12-01'
   link: https://doi.org/gtdksj
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - design
 - id: doi:10.18260/2-1-370.660-130434
   title: Online Graduate Certificate in Data Science for the Chemical Industry
   authors:
@@ -327,8 +393,11 @@
   date: '2022-01-01'
   link: https://doi.org/gt48tg
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - education
 - id: doi:10.1016/j.compchemeng.2022.107898
   title: Perspectives on the integration between first-principles and data-driven
     modeling
@@ -347,7 +416,7 @@
   orcid: 0000-0002-0584-1517
   plugin: sources.py
   file: sources.yaml
-  image: /images/hm.png
+  image: /images/pyddsbb.webp
   tags:
   - hybrid
   - ML
@@ -369,8 +438,12 @@
   date: '2022-08-17'
   link: https://doi.org/gt48th
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - sustainability
+  - design
 - id: doi:10.1016/B978-0-323-85159-6.50290-6
   title: Training Stiff Dynamic Process Models via Neural Differential Equations
   authors: []
@@ -378,8 +451,12 @@
   date: '2022-01-01'
   link: https://doi.org/gt48tk
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1016/B978-0-323-95879-0.50098-9
   title: Verification of Neural Network Surrogates
   authors: []
@@ -387,8 +464,12 @@
   date: '2022-01-01'
   link: https://doi.org/gt48tm
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
+  - software
 - id: doi:10.1016/B978-0-323-88506-5.50142-X
   title: AC-Optimal Power Flow Solutions with Security Constraints from Deep Neural
     Network Models
@@ -397,8 +478,12 @@
   date: '2021-01-01'
   link: https://doi.org/gt48tn
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
+  - optimization
 - id: doi:10.1016/B978-0-323-88506-5.50164-9
   title: Data-driven Branch-and-bound Algorithms for Constrained Simulation-based
     Optimization
@@ -407,8 +492,13 @@
   date: '2021-01-01'
   link: https://doi.org/gt48tq
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - software
+  - ML
 - id: doi:10.1021/acs.iecr.1c00552
   title: Two-Stage Approach to Parameter Estimation of Differential Equations Using
     Neural ODEs
@@ -419,8 +509,12 @@
   date: '2021-11-08'
   link: https://doi.org/gnzhkm
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - hybrid
+  - ML
 - id: doi:10.1007/s11590-019-01428-7
   title: 'Machine learning-based surrogate modeling for data-driven optimization:
     a comparison of subset selection for regression techniques'
@@ -431,8 +525,12 @@
   date: '2019-05-09'
   link: https://doi.org/gf7ph4
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
+  - optimization
 - id: doi:10.1007/s11590-019-01499-6
   title: A preface to the special issue in memory of Professor Christodoulos A. Floudas
   authors:
@@ -442,8 +540,11 @@
   date: '2019-11-08'
   link: https://doi.org/gt48tr
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
 - id: doi:10.1016/j.compchemeng.2020.107007
   title: An integrated data-driven modeling &amp; global optimization approach for
     multi-period nonlinear production planning problems
@@ -459,8 +560,12 @@
   date: '2020-10-01'
   link: https://doi.org/gkc8v6
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
+  - optimization
 - id: doi:10.1016/j.compchemeng.2019.106519
   title: Managing uncertainty in data-driven simulation-based optimization
   authors:
@@ -474,8 +579,12 @@
   date: '2020-05-01'
   link: https://doi.org/gn9wtf
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
+  - optimization
 - id: doi:10.1016/j.compchemeng.2020.106847
   title: Surrogate-based optimization for mixed-integer nonlinear problems
   authors:
@@ -485,8 +594,12 @@
   date: '2020-09-01'
   link: https://doi.org/gt48ts
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - ML
 - id: doi:10.1002/aic.16601
   title: Nonlinear variable selection algorithms for surrogate modeling
   authors:
@@ -496,8 +609,11 @@
   date: '2019-05-07'
   link: https://doi.org/gf4pwv
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
 - id: doi:10.1016/B978-0-12-818597-1.50012-6
   title: Data-Driven Spatial Branch-And-Bound Algorithms For Black-Box Optimization
   authors:
@@ -507,8 +623,13 @@
   date: '2019-01-01'
   link: https://doi.org/gt48tt
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - software
+  - ML
 - id: doi:10.1021/acs.iecr.9b01358
   title: Preface for Special Issue on Frameworks for Process Intensification and Modularization
   authors:
@@ -531,8 +652,11 @@
   date: '2018-05-03'
   link: https://doi.org/gdxnkz
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
 - id: doi:10.1016/j.compchemeng.2018.01.005
   title: Global optimization of grey-box computational systems using surrogate functions
     and application to highly constrained oil-field operations
@@ -547,8 +671,12 @@
   date: '2018-06-01'
   link: https://doi.org/gf4kg3
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - hybrid
 - id: doi:10.1016/j.compchemeng.2018.02.017
   title: Optimal design of energy systems using constrained grey-box multi-objective
     optimization
@@ -561,8 +689,13 @@
   date: '2018-08-01'
   link: https://doi.org/gfmqgr
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - optimization
+  - design
+  - sustainability
 - id: doi:10.1016/B978-0-444-64241-7.50272-X
   title: Teaching data-analytics through process design
   authors:
@@ -574,8 +707,12 @@
   date: '2018-01-01'
   link: https://doi.org/gt48tw
   orcid: 0000-0002-0584-1517
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pyddsbb.webp
+  tags:
+  - ML
+  - design
 - id: doi:10.1007/s11590-016-1028-2
   title: 'ARGONAUT: AlgoRithms for Global Optimization of coNstrAined grey-box compUTational
     problems'

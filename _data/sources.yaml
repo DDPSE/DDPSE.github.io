@@ -3,26 +3,268 @@
   tags: 
     - hybrid
     - ML
+    
 - id: doi:10.1016/j.engappai.2023.107611
   image: /images/eaai.jpg
   tags:
     - hybrid
     - ML
+    
 - id: doi:10.3390/en16165913
   image: /images/powergrids.webp
   tags:
     - hybrid
     - ML
     - optimization    
+    
 - id: doi:10.1007/s10898-021-01045-8
   image: /images/pyddsbb.webp
   tags:
     - optimization
     - software
     - ML   
+    
 - id: doi:10.1016/j.cej.2023.148278
   image: /images/tea_plastics.jpg
   tags:
     - sustainability
     - TEA
+    - design
+
+- id: doi:10.1016/j.cej.2025.168719
+  image: /images/tea_plastics.jpg
+  tags:
+    - sustainability
+
+- id: doi:10.69997/sct.180358
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1021/acssuschemeng.4c09908
+  image: /images/tea_plastics.jpg
+  tags:
+    - sustainability
+
+- id: doi:10.1021/acs.iecr.4c03303
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+    - optimization
+
+- id: doi:10.69997/sct.151585
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.69997/sct.180587
+  image: /images/pyddsbb.webp
+  tags:
+    - sustainability
+    - design
+
+- id: doi:10.1016/j.engappai.2023.107611
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1016/j.compchemeng.2023.108523
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+
+- id: doi:10.1016/j.cej.2023.148278
+  image: /images/tea_plastics.jpg
+  tags:
+    - sustainability
+    - TEA
+    - design
+
+- id: doi:10.1039/d4dd00163j
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1021/acssuschemeng.3c06081
+  image: /images/tea_plastics.jpg
+  tags:
+    - sustainability
+    - design
+
+- id: doi:10.1016/j.ijepes.2023.109741
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+    - optimization
+
+- id: doi:10.1016/j.ijggc.2024.104260
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - design
+
+- id: doi:10.3390/en16165913
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+    - optimization
+
+- id: doi:10.1016/B978-0-443-15274-0.50382-6
+  image: /images/pyddsbb.webp
+  tags:
+    - sustainability
+    - TEA
+    - design
+
+- id: doi:10.1016/B978-0-443-15274-0.50209-2
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+    - optimization
+
+- id: doi:10.1016/j.compchemeng.2023.108320
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1007/s11081-022-09740-5
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - software
+    - ML
+
+- id: doi:10.1007/s10898-021-01045-8
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - software
+    - ML
+
+- id: doi:10.1016/j.cherd.2022.10.002
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - design
+
+- id: doi:10.18260/2-1-370.660-130434
+  image: /images/pyddsbb.webp
+  tags:
+    - education
+
+- id: doi:10.1016/j.compchemeng.2022.107898
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1021/acssuschemeng.2c03376
+  image: /images/pyddsbb.webp
+  tags:
+    - sustainability
+    - design
+
+- id: doi:10.1016/B978-0-323-85159-6.50290-6
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1016/B978-0-323-95879-0.50098-9
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+    - software
+
+- id: doi:10.1016/B978-0-323-88506-5.50142-X
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+    - optimization
+
+- id: doi:10.1016/B978-0-323-88506-5.50164-9
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - software
+    - ML
+
+- id: doi:10.1021/acs.iecr.1c00552
+  image: /images/pyddsbb.webp
+  tags:
+    - hybrid
+    - ML
+
+- id: doi:10.1007/s11590-019-01428-7
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+    - optimization
+
+- id: doi:10.1007/s11590-019-01499-6
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+
+- id: doi:10.1016/j.compchemeng.2020.107007
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+    - optimization
+
+- id: doi:10.1016/j.compchemeng.2019.106519
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+    - optimization
+
+- id: doi:10.1016/j.compchemeng.2020.106847
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - ML
+
+- id: doi:10.1002/aic.16601
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
+
+- id: doi:10.1016/B978-0-12-818597-1.50012-6
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - software
+    - ML
+
+- id: doi:10.1007/s10898-018-0643-0
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+
+- id: doi:10.1016/j.compchemeng.2018.01.005
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - hybrid
+
+- id: doi:10.1016/j.compchemeng.2018.02.017
+  image: /images/pyddsbb.webp
+  tags:
+    - optimization
+    - design
+    - sustainability
+
+- id: doi:10.1016/B978-0-444-64241-7.50272-X
+  image: /images/pyddsbb.webp
+  tags:
+    - ML
     - design
